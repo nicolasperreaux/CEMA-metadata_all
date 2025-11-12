@@ -1,0 +1,30 @@
+{
+  "publication": {
+    "publication_type": "monograph",
+    "title": "Actes des previleges, libertez, franchises, droits, loix, keures, bonnes coustumes et usqges dont les bourghmaistres et échevins du pays du Francq, nobles, notables et généralement tous les habitans d'icelui pays ont jouy et usé",
+    "auteurs": [],
+    "place_of_publication": "Bruges",
+    "publisher": null,
+    "publication_dates": "1703",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Francq",
+    "region": "Vlaanderen",
+    "country": "Belgium",
+    "institution_type": "commune",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "collection"
+  },
+  "remarks": null
+}
