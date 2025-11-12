@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "240",
+    "publication_type": "article",
+    "title": "Auszug",
+    "auteurs": ["Sulger"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": "Annales Zwifaltensis, Bd. 1",
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Zwiefalten",
+    "mentioned_place": "Zwiefalten",
+    "region": "Swabia",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Extract from Annales Zwifaltensis, Volume 1"
+}

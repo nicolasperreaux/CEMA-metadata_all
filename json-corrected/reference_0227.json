@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "227",
+    "publication_type": "monograph",
+    "title": "Annales imperialis monasterii Zwifaltensis ordinis S. Benedicti in Suevia",
+    "auteurs": ["Sulger, Arsenius"],
+    "place_of_publication": "Augsburg",
+    "publisher": null,
+    "publication_dates": "1697-98",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterium Zwifaltense",
+    "mentioned_place": "Zwiefalten",
+    "region": "Swabia",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "2 volumes"
+}

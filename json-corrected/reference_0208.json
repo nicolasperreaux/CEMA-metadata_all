@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "208",
+    "publication_type": "monograph",
+    "title": "Le carte che si conservano nell'Archivio del capitolo metropolitano della città di Trani (dal secolo IX fino all'anno 1266)",
+    "auteurs": ["Prologo, Arcangelo"],
+    "place_of_publication": "Barletta",
+    "publisher": "V. Vecchi e soci",
+    "publication_dates": "1877",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Capitolo metropolitano di Trani",
+    "mentioned_place": "Trani",
+    "region": "Puglia",
+    "country": "Italy",
+    "institution_type": "cathedral chapter",
+    "religious_order": null,
+    "temporal_coverage": "IXe-XIIIe siècle",
+    "document_type": "collection"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "219",
+    "publication_type": "article",
+    "title": "El monasterio de San Juan de Mera",
+    "auteurs": ["Ares Vázquez, Nicandro"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1973",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Boletín de la Comisión Provincial de Monumentos Históricos y Artísticos de Lugo",
+    "journal_volume": "IX nº 79-80",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de San Juan de Mera",
+    "mentioned_place": "Mera",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

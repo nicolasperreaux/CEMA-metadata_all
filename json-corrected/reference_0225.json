@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "225",
+    "publication_type": "article",
+    "title": "Gisleberti chronicon Hanoniense a. 1070-1195",
+    "auteurs": ["Arndt, W."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1869",
+    "volume": null,
+    "tome": null,
+    "pages": "481-601",
+    "series": "Monumenta Germaniae Historica. Scriptores - in Folio",
+    "journal_title": null,
+    "journal_volume": "21",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Hainaut",
+    "region": "Hainaut",
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1070-1195",
+    "document_type": "chronicle"
+  },
+  "remarks": "Published in Hannover"
+}

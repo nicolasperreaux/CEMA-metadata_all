@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "224",
+    "publication_type": "monograph",
+    "title": "Une abbaye de montagne, Sainte-Marie d'Aulps. Son histoire et son domaine par ses archives",
+    "auteurs": ["Delerce, Arnaud"],
+    "place_of_publication": "Thonon",
+    "publisher": "Académie chablaisienne",
+    "publication_dates": "2011",
+    "volume": "IV",
+    "tome": null,
+    "pages": null,
+    "series": "Documents d'histoire savoyarde",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Sainte-Marie d'Aulps",
+    "mentioned_place": "Aulps",
+    "region": "Savoie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

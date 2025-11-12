@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "248",
+    "publication_type": "article",
+    "title": "La reconstruction du monastère de Cîteaux (vers 1160 – vers 1240)",
+    "auteurs": ["Chauvin, B."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin Monumental",
+    "journal_volume": "165",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monastère de Cîteaux",
+    "mentioned_place": "Cîteaux",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "1160-1240",
+    "document_type": null
+  },
+  "remarks": "Missing publication date"
+}

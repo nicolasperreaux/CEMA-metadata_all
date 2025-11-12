@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "204",
+    "publication_type": "article",
+    "title": null,
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1855-1920",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Anzeiger für schweizerische Geschichte und Altertumskunde",
+    "journal_volume": "1, 3, N.F. 1, 11, 12, 18",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Switzerland",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Multiple volumes referenced"
+}

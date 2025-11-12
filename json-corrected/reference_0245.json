@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "245",
+    "publication_type": "article",
+    "title": "Auszug",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "ZGO",
+    "journal_volume": "2",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": "Oberrhein",
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Extract; ZGO = Zeitschrift für die Geschichte des Oberrheins"
+}

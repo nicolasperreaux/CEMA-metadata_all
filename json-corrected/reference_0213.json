@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "213",
+    "publication_type": "monograph",
+    "title": "Archives d'Anjou. Recueil de documents et mémoires inédits sur cette province publié sous les auspices du Conseil général de Maine et Loire",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Anjou",
+    "region": "Anjou",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "collection"
+  },
+  "remarks": "Missing publication date and editor information"
+}

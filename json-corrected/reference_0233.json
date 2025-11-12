@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "233",
+    "publication_type": "article",
+    "title": "Probabilités d'un voyage du roi saint Louis à Besançon en 1259, lettre à Léopold Delisle",
+    "auteurs": ["Castan, Auguste"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1873",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bibliothèque de l'École des chartes",
+    "journal_volume": "34",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Besançon",
+    "region": "Franche-Comté",
+    "country": "France",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

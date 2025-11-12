@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "222",
+    "publication_type": "article",
+    "title": "El monasterio Samos desde sus orígenes hasta el siglo XI",
+    "auteurs": ["Arias Cuenllas, Maximino"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1981",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Archivos Leoneses. Revista de estudios y documentación de los reinos hispano-occidentales",
+    "journal_volume": "XXXV nº 70",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de Samos",
+    "mentioned_place": "Samos",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "before XIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

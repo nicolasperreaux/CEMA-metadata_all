@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "223",
+    "publication_type": "monograph",
+    "title": "Pontevedra en los siglos XII a XV. Configuración y desarrollo de una villa marinera en la Galicia Medieval",
+    "auteurs": ["Armas Castro, José"],
+    "place_of_publication": "Pontevedra",
+    "publisher": "Fundación «Pedro Barrié de la Maza conde de Fenosa»",
+    "publication_dates": "1992",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Pontevedra",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "XIIe-XVe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

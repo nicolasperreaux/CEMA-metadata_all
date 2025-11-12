@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "218",
+    "publication_type": "article",
+    "title": "Documentos históricos. XLVI. Posadas del Merino y del Obispo en Mera y Regalías de Santa María de Lugo",
+    "auteurs": ["Ares Vázquez, Nicandro"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1971-1972",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Boletín de la Comisión Provincial de Monumentos Históricos y Artísticos de Lugo",
+    "journal_volume": "IX nº 75-78",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Santa María de Lugo",
+    "mentioned_place": "Mera",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "cathedral",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}
