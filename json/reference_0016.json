@@ -1,0 +1,30 @@
+{
+  "publication": {
+    "publication_type": "monograph",
+    "title": "Gründlich-historischer Bericht von der kayserlichen und Reichs Landtvogtey in Schwaben wie in dem frey kayserlichen Landtgericht auf Leutkircher Haid und in der Pirß: Aus den bewährtesten Geschichts-Schreibern und CCLXXV meisten",
+    "auteurs": ["Wegelin, Johann Reinhard"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": "Bd. 2",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Schwaben",
+    "region": "Schwaben",
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Incomplete reference, missing publication details"
+}

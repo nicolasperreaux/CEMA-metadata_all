@@ -1,0 +1,30 @@
+{
+  "publication": {
+    "publication_type": "article",
+    "title": "Abbaye de Florennes",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": "p.232-233",
+    "series": null,
+    "journal_title": "Revue Bénédictine",
+    "journal_volume": "11",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Florennes",
+    "mentioned_place": "Florennes",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

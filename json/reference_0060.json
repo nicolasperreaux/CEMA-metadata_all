@@ -1,0 +1,30 @@
+{
+  "publication": {
+    "publication_type": "monograph",
+    "title": "Notice historique sur la ville de Tonneins",
+    "auteurs": ["Lagarde, A."],
+    "place_of_publication": "Agen",
+    "publisher": null,
+    "publication_dates": "1884",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Tonneins",
+    "region": "Gascogne",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}
