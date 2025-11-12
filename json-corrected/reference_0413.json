@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "413",
+    "publication_type": "book",
+    "title": "Urkundenbuch zur Geschichte der jetzt die Preussischen Regierungsbezirke Coblenz und Trier bildenden mittelrheinischen Territorien",
+    "auteurs": ["Beyer, H.", "Eltester, L.", "Goerz, A."],
+    "place_of_publication": "Coblenz",
+    "publisher": null,
+    "publication_dates": "1860-1874",
+    "volume": "3",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Coblenz, Trier",
+    "region": "Middle Rhine",
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": "3 volumes. Charter book for the Middle Rhine territories"
+}

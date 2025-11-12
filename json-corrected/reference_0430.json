@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "430",
+    "publication_type": "article",
+    "title": "Die älteren Urkunden des Klosters S.Vanne zu Verdun",
+    "auteurs": ["Bloch, H."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1898; 1902",
+    "volume": null,
+    "tome": null,
+    "pages": "338-449; 48-150",
+    "series": null,
+    "journal_title": "Jahrbuch der Gesellschaft für lotharingische Geschichte und Altertumskunde",
+    "journal_volume": "10; 14",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Kloster Sankt Vanne",
+    "mentioned_place": "Verdun",
+    "region": "Lorraine",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": "Published in two parts in volumes 10 and 14"
+}

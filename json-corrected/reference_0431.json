@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "431",
+    "publication_type": "article",
+    "title": "De zoogenaamde stadskeure van Geeraardsbergen van tusschen 1067 en 1070",
+    "auteurs": ["Blockmans, F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1941",
+    "volume": null,
+    "tome": null,
+    "pages": "1-93",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "106",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Geeraardsbergen",
+    "region": "Flandre",
+    "country": "Belgium",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": "1067-1070",
+    "document_type": "charter"
+  },
+  "remarks": "In Dutch. The so-called city charter of Geeraardsbergen"
+}

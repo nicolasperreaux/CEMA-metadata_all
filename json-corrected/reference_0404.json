@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "404",
+    "publication_type": "book",
+    "title": "Gesta episcoporum Cameracensium",
+    "auteurs": ["Bethmann, L.C."],
+    "place_of_publication": "Hannover",
+    "publisher": null,
+    "publication_dates": "1876",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Monumenta Germaniae historica. Scriptores 7",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Diocèse de Cambrai",
+    "mentioned_place": "Cambrai",
+    "region": "Cambrésis",
+    "country": "France",
+    "institution_type": "diocese",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "gesta"
+  },
+  "remarks": "Deeds of the bishops of Cambrai"
+}

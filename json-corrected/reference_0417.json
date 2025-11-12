@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "417",
+    "publication_type": "book",
+    "title": "Essai sur l'histoire de la dévolution héréditaire dans les successions ab intestat en Bourgogne, depuis les origines au XVIe siècle, et Chartes de l'abbaye de Saint-Etienne de Dijon, de 1098 à 1140",
+    "auteurs": ["Bièvre-Poulalier, A."],
+    "place_of_publication": "Dijon",
+    "publisher": null,
+    "publication_dates": "1912",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Etienne de Dijon",
+    "mentioned_place": "Dijon",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "1098-1140",
+    "document_type": "charter"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "446",
+    "publication_type": "article",
+    "title": "Les premiers \"hospitia\" de Bruxelles au XIIe siècle",
+    "auteurs": ["Bonenfant, P."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1973",
+    "volume": null,
+    "tome": null,
+    "pages": "3-26",
+    "series": null,
+    "journal_title": "Annales de la Société belge d'Histoire des Hôpitaux",
+    "journal_volume": "11",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Bruxelles",
+    "region": "Brabant",
+    "country": "Belgium",
+    "institution_type": "hospital",
+    "religious_order": null,
+    "temporal_coverage": "XIIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

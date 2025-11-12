@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "437",
+    "publication_type": "book",
+    "title": "Acta imperii selecta: Urkunden Deutscher Koenige und Kaiser mit einem Anhange von Reichssachen",
+    "auteurs": ["Boehmer, J.F."],
+    "place_of_publication": "Innsbruck",
+    "publisher": null,
+    "publication_dates": "1870",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Germany",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "acta"
+  },
+  "remarks": "Selected imperial acts: Charters of German kings and emperors"
+}

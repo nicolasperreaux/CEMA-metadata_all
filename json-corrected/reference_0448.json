@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "448",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye de Vigeois en Limousin : 954-1167",
+    "auteurs": ["Bonhomme de Montégut, Henri"],
+    "place_of_publication": "Limoges",
+    "publisher": "Ducourtieux et Gout",
+    "publication_dates": "1907",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Vigeois",
+    "mentioned_place": "Vigeois",
+    "region": "Limousin",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Augustinian Canons",
+    "temporal_coverage": "954-1167",
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

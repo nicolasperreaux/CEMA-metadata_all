@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "439",
+    "publication_type": "book",
+    "title": "De oudste oorkonden der abdij Rolduc en de Annales Rodenses",
+    "auteurs": ["Boeren, P.C."],
+    "place_of_publication": "'S-Gravenhage",
+    "publisher": null,
+    "publication_dates": "1949",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abdij Rolduc",
+    "mentioned_place": "Rolduc",
+    "region": "Limburg",
+    "country": "Netherlands",
+    "institution_type": "abbey",
+    "religious_order": "Augustinian Canons",
+    "temporal_coverage": null,
+    "document_type": "charter; annals"
+  },
+  "remarks": "In Dutch. The oldest charters of Rolduc Abbey and the Annales Rodenses"
+}

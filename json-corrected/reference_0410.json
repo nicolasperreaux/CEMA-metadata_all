@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "410",
+    "publication_type": "article",
+    "title": "Notice sur la ladrerie de Ter Banck, près de Louvain, la chapelle dite Lazerny à Rumpst, et la condition sociale des lépreux dans le Brabant",
+    "auteurs": ["Bets, P.V."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1870",
+    "volume": null,
+    "tome": null,
+    "pages": "307-328; 427-454",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'histoire ecclésiastique de la Belgique",
+    "journal_volume": "7",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Ladrerie de Ter Banck",
+    "mentioned_place": "Louvain, Rumpst",
+    "region": "Brabant",
+    "country": "Belgium",
+    "institution_type": "hospital",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "About leper hospitals and social condition of lepers in Brabant"
+}

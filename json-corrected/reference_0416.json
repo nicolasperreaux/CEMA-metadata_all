@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "416",
+    "publication_type": "reference",
+    "title": "Sanct Georgen",
+    "auteurs": ["Bielsky"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "AÖG 9",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Sankt Georgen",
+    "mentioned_place": "Sankt Georgen",
+    "region": null,
+    "country": "Austria",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Incomplete reference. Published in Wien 1853. AÖG = Archiv für österreichische Geschichte"
+}

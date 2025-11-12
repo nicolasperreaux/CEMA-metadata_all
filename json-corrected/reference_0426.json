@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "426",
+    "publication_type": "article",
+    "title": "Histoire de l'abbaye d'Hautecombe en Savoie avec pièces justificatives inédites",
+    "auteurs": ["Blanchard, Claudius"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1875",
+    "volume": null,
+    "tome": "1",
+    "pages": null,
+    "series": "troisième série",
+    "journal_title": "Mémoires de l'académie des sciences et belles lettres et arts de Savoie",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye d'Hautecombe",
+    "mentioned_place": "Hautecombe",
+    "region": "Savoie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

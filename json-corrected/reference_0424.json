@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "424",
+    "publication_type": "reference",
+    "title": "Liber Eliensis",
+    "auteurs": ["Blake"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Ely",
+    "mentioned_place": "Ely",
+    "region": "Cambridgeshire",
+    "country": "England",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "chronicle"
+  },
+  "remarks": "Incomplete reference - short citation format. Book of Ely"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "433",
+    "publication_type": "book",
+    "title": "De Nobertijner abdij van Averbode",
+    "auteurs": ["Blomme, P."],
+    "place_of_publication": "Averbode",
+    "publisher": null,
+    "publication_dates": "1927",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abdij van Averbode",
+    "mentioned_place": "Averbode",
+    "region": "Brabant",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": "In Dutch. Norbertine (Premonstratensian) abbey"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "402",
+    "publication_type": "reference",
+    "title": "Virginum sacrarum monimenta",
+    "auteurs": ["Besold", "Petrus"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": "74, 708",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": "Suevia ecclesiastica",
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Stuttgart",
+    "region": "Swabia",
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Fonds: HStA Stuttgart (Hauptstaatsarchiv Stuttgart). Petrus follows Besold"
+}

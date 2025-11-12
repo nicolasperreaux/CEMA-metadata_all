@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "419",
+    "publication_type": "thesis",
+    "title": "Trois-Fontaines, fille aînée de Clairvaux : étude et édition du chartrier (1118-1231)",
+    "auteurs": ["Billot, Stéphanie"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1997",
+    "volume": "3",
+    "tome": "1",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Trois-Fontaines",
+    "mentioned_place": "Trois-Fontaines",
+    "region": "Champagne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "1118-1231",
+    "document_type": "charter"
+  },
+  "remarks": "Thesis from École nationale des chartes. 3 volumes"
+}

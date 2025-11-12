@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "447",
+    "publication_type": "article",
+    "title": "Saint-Jean de Bruxelles ou Saint-Médard de Soissons ? A propos de prétendues \"lettres\" d'Innocent II de 1131",
+    "auteurs": ["Bonenfant, P."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1927",
+    "volume": null,
+    "tome": null,
+    "pages": "1-25",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "91",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Saint-Jean de Bruxelles; Saint-Médard de Soissons",
+    "mentioned_place": "Bruxelles, Soissons",
+    "region": "Brabant, Picardie",
+    "country": "Belgium",
+    "institution_type": "church",
+    "religious_order": null,
+    "temporal_coverage": "XIIe siècle (1131)",
+    "document_type": "papal letter"
+  },
+  "remarks": null
+}

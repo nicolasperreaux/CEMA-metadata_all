@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "444",
+    "publication_type": "book",
+    "title": "Charterboek der hertogen van Gelderland en graaven van Zutphen (I dl. -4 afd.)",
+    "auteurs": ["Bondam, P."],
+    "place_of_publication": "Utrecht",
+    "publisher": null,
+    "publication_dates": "1783-1809",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Gelderland, Zutphen",
+    "region": "Gelderland",
+    "country": "Netherlands",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": "In Dutch. Charter book of the dukes of Gelderland and counts of Zutphen"
+}
