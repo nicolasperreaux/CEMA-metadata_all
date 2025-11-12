@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "159",
+    "publication_type": "monograph",
+    "title": "Diplomatari d'Alguaire i del seu monestir duple de l'orde de Sant Joan de Jerusalem (1245-1300)",
+    "auteurs": ["Alturo i Perucho, Jesús"],
+    "place_of_publication": "Barcelona",
+    "publisher": null,
+    "publication_dates": "2010",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monestir d'Alguaire",
+    "mentioned_place": "Alguaire",
+    "region": "Catalunya",
+    "country": "Spain",
+    "institution_type": "commandery",
+    "religious_order": "Hospitallers",
+    "temporal_coverage": "1245-1300",
+    "document_type": "collection"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "158",
+    "publication_type": "monograph",
+    "title": "Die Traditionen des Klosters Schäftlarn : 760-1305",
+    "auteurs": ["Weissthanner, Alois"],
+    "place_of_publication": "München",
+    "publisher": "Beck",
+    "publication_dates": "1953",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Kloster Schäftlarn",
+    "mentioned_place": "Schäftlarn",
+    "region": "Bayern",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "760-1305",
+    "document_type": "collection"
+  },
+  "remarks": null
+}

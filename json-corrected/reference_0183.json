@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "183",
+    "publication_type": "monograph",
+    "title": "Cartulaire de l'abbaye royale de Notre-Dame de Bon-Port de l'ordre de Cîteaux au diocèse d'Évreux",
+    "auteurs": ["Andrieux, Jules"],
+    "place_of_publication": "Évreux",
+    "publisher": "Hérissey",
+    "publication_dates": "1862",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Notre-Dame de Bon-Port",
+    "mentioned_place": "Évreux",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

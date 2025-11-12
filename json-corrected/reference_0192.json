@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "192",
+    "publication_type": "article",
+    "title": "Chartes luxembourgeoises inédites",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1849",
+    "volume": null,
+    "tome": null,
+    "pages": "149-158",
+    "series": null,
+    "journal_title": "Publications de la Société des Monuments historiques dans le Grand-Duché de Luxembourg",
+    "journal_volume": "5",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Luxembourg",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": "Anonymous; document A, p.149"
+}

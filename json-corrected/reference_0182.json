@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "182",
+    "publication_type": "monograph",
+    "title": "Die Register Innocenz' III. 9. Pontifikatsjahr, 1206/1207",
+    "auteurs": ["Sommerlechner, Andrea", "Hageneder, Othmar", "Egger, Christoph", "Murauer, Rainer", "Weigl, Herwig"],
+    "place_of_publication": "Vienne",
+    "publisher": "Österreichischen Akademie der Wissenschaften",
+    "publication_dates": "2004",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": "papal",
+    "religious_order": null,
+    "temporal_coverage": "1206-1207",
+    "document_type": "papal register"
+  },
+  "remarks": "Pontificate year 9, 1206/1207"
+}

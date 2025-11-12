@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "160",
+    "publication_type": "article",
+    "title": "Cartas de fuero y licencias ad populandum del monasterio de Lorenzana. Contribución al corpus de los fueros rurales de Galicia",
+    "auteurs": ["Álvarez Castrillón, José Antonio"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2013",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Cuadernos de Estudios Gallegos",
+    "journal_volume": "LX nº 126",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de Lorenzana",
+    "mentioned_place": "Lorenzana",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "fuero"
+  },
+  "remarks": null
+}

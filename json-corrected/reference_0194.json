@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "194",
+    "publication_type": "article",
+    "title": "L'église Saint-Mort à Huy",
+    "auteurs": ["Antoine, J.-L."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1978",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Annales du Cercle hutois des Sciences et des Beaux-Arts",
+    "journal_volume": "32",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Église Saint-Mort",
+    "mentioned_place": "Huy",
+    "region": "Liège",
+    "country": "Belgium",
+    "institution_type": "church",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

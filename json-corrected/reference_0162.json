@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "162",
+    "publication_type": "monograph",
+    "title": "Historia imperialis ac exemptae canoniae Minoraugiensis sacri candidi, et exempti ordinis Praemonstratensis in alma circaria Suevica",
+    "auteurs": ["John, Ambrosius"],
+    "place_of_publication": "Konstanz",
+    "publisher": null,
+    "publication_dates": "1763",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Canonia Minoraugiensis",
+    "mentioned_place": null,
+    "region": "Swabia",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

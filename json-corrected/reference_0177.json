@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "177",
+    "publication_type": "monograph",
+    "title": "O tombo de Celanova: estudio introductorio, edición e índices, (ss. IX-XII)",
+    "auteurs": ["Andrade Cernadas, José Miguel", "Díaz Tie, Marta", "Pérez Rodríguez, Francisco Javier"],
+    "place_of_publication": "Santiago de Compostela",
+    "publisher": "Consello da Cultura Galega",
+    "publication_dates": "1995",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de Celanova",
+    "mentioned_place": "Celanova",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "IXe-XIIe siècle",
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

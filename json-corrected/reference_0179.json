@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "179",
+    "publication_type": "article",
+    "title": "Le convent et la bibliothèque de Cluny vers le milieu du XIe siècle",
+    "auteurs": ["Wilmart, André"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1921",
+    "volume": null,
+    "tome": null,
+    "pages": "89-124",
+    "series": null,
+    "journal_title": "Revue Mabillon",
+    "journal_volume": "11",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Cluny",
+    "mentioned_place": "Cluny",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cluniac",
+    "temporal_coverage": "XIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

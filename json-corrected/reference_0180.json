@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "180",
+    "publication_type": "monograph",
+    "title": "Die Urkunden Philipps von Schwaben",
+    "auteurs": ["Rzihacek, Andrea", "Spreitzer, Renate"],
+    "place_of_publication": "Wiesbaden",
+    "publisher": null,
+    "publication_dates": "2014",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": "Schwaben",
+    "country": "Germany",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": "collection"
+  },
+  "remarks": "Documents of Philip of Swabia"
+}

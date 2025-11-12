@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "165",
+    "publication_type": "monograph",
+    "title": "An Edition of the Cartulary of Alvingham Priory",
+    "auteurs": ["Redford, Jill Elizabeth"],
+    "place_of_publication": "York",
+    "publisher": "University of York",
+    "publication_dates": "2010",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Alvingham Priory",
+    "mentioned_place": "Alvingham",
+    "region": "Lincolnshire",
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": "Gilbertine",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

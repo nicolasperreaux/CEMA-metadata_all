@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "178",
+    "publication_type": "monograph",
+    "title": "Histoire des maisons de Guînes, d'Ardres, de Gand et de Coucy",
+    "auteurs": ["Duchesne, André"],
+    "place_of_publication": "Paris",
+    "publisher": "Sébastien Cramoisy",
+    "publication_dates": "1631",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Guînes",
+    "region": "Flandre",
+    "country": "France",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

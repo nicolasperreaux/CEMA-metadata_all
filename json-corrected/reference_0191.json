@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "191",
+    "publication_type": "monograph",
+    "title": "Beurkundete Nachricht von dem Teutsch-Ordens-Haus und Commende Schiffenberg wie auch denen übrigen in dem Fürstentum Hessen gelegenen Ordensgütern",
+    "auteurs": [],
+    "place_of_publication": "Giessen",
+    "publisher": null,
+    "publication_dates": "1752",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Teutsch-Ordens-Haus Schiffenberg",
+    "mentioned_place": "Schiffenberg",
+    "region": "Hessen",
+    "country": "Germany",
+    "institution_type": "commandery",
+    "religious_order": "Teutonic Order",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Anonymous publication"
+}

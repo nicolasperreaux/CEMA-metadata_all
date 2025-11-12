@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "187",
+    "publication_type": "monograph",
+    "title": "Annals and Antiquities of Lacock Abbey",
+    "auteurs": ["Bowles, W. L.", "Nichols, J. G."],
+    "place_of_publication": "London",
+    "publisher": "John Bowyer Nichols and Son",
+    "publication_dates": "1835",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Lacock Abbey",
+    "mentioned_place": "Lacock",
+    "region": "Wiltshire",
+    "country": "England",
+    "institution_type": "abbey",
+    "religious_order": "Augustinian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

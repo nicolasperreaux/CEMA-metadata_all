@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "196",
+    "publication_type": "monograph",
+    "title": "Urkundenbuch des Klosters Heiligkreuztal",
+    "auteurs": ["Hauber, Anton"],
+    "place_of_publication": "Stuttgart",
+    "publisher": null,
+    "publication_dates": "1910-13",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Württembergische Geschichtsquellen 9 bzw. 14",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Kloster Heiligkreuztal",
+    "mentioned_place": "Heiligkreuztal",
+    "region": "Württemberg",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "collection"
+  },
+  "remarks": "2 volumes"
+}

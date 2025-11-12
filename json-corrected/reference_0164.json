@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "164",
+    "publication_type": "monograph",
+    "title": "An Account of the Family of Okeover",
+    "auteurs": ["Wrottesley, G."],
+    "place_of_publication": "London",
+    "publisher": "Harrison and Sons",
+    "publication_dates": "1904",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Collections for a History of Staffordshire, New Series V.7",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Okeover",
+    "region": "Staffordshire",
+    "country": "England",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Published by The William Salt Archaeological Society"
+}
