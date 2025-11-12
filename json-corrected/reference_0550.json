@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "550",
+    "publication_type": "book",
+    "title": "MGH (Merowinger) : Die Urkunden der Merowinger",
+    "auteurs": ["BRÜHL Carlrichard", "KÖLZER Theo"],
+    "place_of_publication": "Hanovre",
+    "publisher": null,
+    "publication_dates": "2001",
+    "volume": "2 volumes",
+    "tome": null,
+    "pages": null,
+    "series": "Monumenta Germaniae Historica",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": "Gaule, France",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "époque mérovingienne",
+    "document_type": "diplômes mérovingiens"
+  },
+  "remarks": "Diplômes des rois mérovingiens"
+}

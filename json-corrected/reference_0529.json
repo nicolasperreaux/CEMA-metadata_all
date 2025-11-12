@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "529",
+    "publication_type": "article",
+    "title": "Actes inédits de Nicolas II de Barbençon (1243-1249)",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1948-1949",
+    "volume": null,
+    "tome": null,
+    "pages": "47-61",
+    "series": null,
+    "journal_title": "Documents et Rapports de la Société royale paléontologique et archéologique de l'Arrondissement judiciare de Charleroi",
+    "journal_volume": "47",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Barbençon",
+    "region": "Hainaut",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1243-1249",
+    "document_type": "actes"
+  },
+  "remarks": "Concernant Nicolas II de Barbençon"
+}

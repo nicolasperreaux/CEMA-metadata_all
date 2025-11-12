@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "544",
+    "publication_type": "article",
+    "title": "Un document inédit de 1244 relatif à Gosselies",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1949",
+    "volume": null,
+    "tome": null,
+    "pages": "58-61",
+    "series": null,
+    "journal_title": "Documents et Rapports de la Société royale paléontologique et archéologique de l'Arrondissement judiciare de Charleroi",
+    "journal_volume": "18",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Gosselies",
+    "region": "Hainaut",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1244",
+    "document_type": "document"
+  },
+  "remarks": null
+}

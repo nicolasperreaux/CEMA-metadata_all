@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "537",
+    "publication_type": "article",
+    "title": "Le cartulaire du prieuré d'Aubigny-en-Artois",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1962",
+    "volume": null,
+    "tome": null,
+    "pages": "495-528",
+    "series": null,
+    "journal_title": "Augustiniana",
+    "journal_volume": "12",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Prieuré d'Aubigny-en-Artois",
+    "mentioned_place": "Aubigny-en-Artois",
+    "region": "Artois",
+    "country": "France",
+    "institution_type": "prieuré",
+    "religious_order": "Augustins",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

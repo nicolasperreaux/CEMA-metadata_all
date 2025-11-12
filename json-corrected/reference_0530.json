@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "530",
+    "publication_type": "article",
+    "title": "Chartes et documents de l'abbaye d'Argenton à Lonzée",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1950",
+    "volume": null,
+    "tome": null,
+    "pages": "297-381",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "115",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye d'Argenton à Lonzée",
+    "mentioned_place": "Lonzée",
+    "region": "Namur",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "chartes et documents"
+  },
+  "remarks": null
+}

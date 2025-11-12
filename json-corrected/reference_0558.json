@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "558",
+    "publication_type": "article",
+    "title": "Les revenus, les biens et les droits de Sainte-Waudru de Mons à la fin du XIIe siècle",
+    "auteurs": ["BRUWIER M.", "GYSSELING M."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1956",
+    "volume": null,
+    "tome": null,
+    "pages": "239-330",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "121",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Collégiale Sainte-Waudru de Mons",
+    "mentioned_place": "Mons",
+    "region": "Hainaut",
+    "country": "Belgique",
+    "institution_type": "collégiale",
+    "religious_order": null,
+    "temporal_coverage": "fin XIIe siècle",
+    "document_type": "étude"
+  },
+  "remarks": null
+}

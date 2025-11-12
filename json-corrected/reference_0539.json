@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "539",
+    "publication_type": "article",
+    "title": "Les biens du Val Saint-Lambert en Laonois",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1964",
+    "volume": null,
+    "tome": null,
+    "pages": "18-21",
+    "series": null,
+    "journal_title": "Leodium",
+    "journal_volume": "51",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Val Saint-Lambert",
+    "mentioned_place": "Val Saint-Lambert, Laon",
+    "region": "Liège",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "étude"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "540",
+    "publication_type": "book",
+    "title": "Recueil des chartes et documents de l'abbaye du Val-Saint-Georges à Salzinnes (1196-1300)",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": "Achel",
+    "publisher": null,
+    "publication_dates": "1971",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Cîteaux. Studia et documenta, I",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Val-Saint-Georges à Salzinnes",
+    "mentioned_place": "Salzinnes",
+    "region": "Namur",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": "1196-1300",
+    "document_type": "chartes et documents"
+  },
+  "remarks": null
+}

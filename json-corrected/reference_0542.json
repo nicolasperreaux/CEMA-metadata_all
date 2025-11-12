@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "542",
+    "publication_type": "article",
+    "title": "Un acte inédit d'Hugues de Pierrepont pour l'abbaye de Villers-la-Ville (juillet 1222)",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1956",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Leodium",
+    "journal_volume": "43",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Villers-la-Ville",
+    "mentioned_place": "Villers-la-Ville",
+    "region": "Brabant wallon",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": "1222",
+    "document_type": "acte"
+  },
+  "remarks": "Concernant Hugues de Pierrepont"
+}

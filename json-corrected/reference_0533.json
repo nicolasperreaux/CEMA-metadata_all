@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "533",
+    "publication_type": "article",
+    "title": "Chartes inconnues concernant les abbayes de Boneffe et d'Argenton",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1971",
+    "volume": null,
+    "tome": null,
+    "pages": "324-328",
+    "series": null,
+    "journal_title": "Cîteaux. Commentarii Cistercienses",
+    "journal_volume": "22",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbayes de Boneffe et d'Argenton",
+    "mentioned_place": "Boneffe, Argenton",
+    "region": "Namur",
+    "country": "Belgique",
+    "institution_type": "abbayes",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

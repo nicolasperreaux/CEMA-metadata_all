@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "538",
+    "publication_type": "article",
+    "title": "Les abbés de Gembloux au XIIIe siècle",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1971",
+    "volume": null,
+    "tome": null,
+    "pages": "101-108",
+    "series": null,
+    "journal_title": "Revue Bénédictine",
+    "journal_volume": "81",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Gembloux",
+    "mentioned_place": "Gembloux",
+    "region": "Namur",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": "étude"
+  },
+  "remarks": null
+}

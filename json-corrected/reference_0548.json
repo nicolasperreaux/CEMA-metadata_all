@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "548",
+    "publication_type": "article",
+    "title": "Histoire du chapitre noble de Sinnich de l'Ordre de St. Augustin",
+    "auteurs": ["BROUWERS D.D."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1903",
+    "volume": null,
+    "tome": null,
+    "pages": "1-212",
+    "series": null,
+    "journal_title": "Bulletin de la Société verviétoise d'Archéologie et d'Histoire",
+    "journal_volume": "5",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Chapitre noble de Sinnich",
+    "mentioned_place": "Sinnich",
+    "region": "Liège",
+    "country": "Belgique",
+    "institution_type": "chapitre",
+    "religious_order": "Augustins",
+    "temporal_coverage": null,
+    "document_type": "histoire"
+  },
+  "remarks": null
+}

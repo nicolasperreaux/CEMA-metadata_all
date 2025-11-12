@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "503",
+    "publication_type": "article",
+    "title": "Gautier de Hainaut, abbé d'Hasnon (1207-1237). Additions et rectifications au Gallia Christiana",
+    "auteurs": ["BRASSART F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1879",
+    "volume": null,
+    "tome": null,
+    "pages": "150-152",
+    "series": "2e série",
+    "journal_title": "Mémoires de la Société d'Agriculture, de Sciences et d'Arts séant à Douai centrale du département du Nord",
+    "journal_volume": "14",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye d'Hasnon",
+    "mentioned_place": "Hasnon",
+    "region": "Hainaut",
+    "country": "France",
+    "institution_type": "abbaye",
+    "religious_order": null,
+    "temporal_coverage": "1207-1237",
+    "document_type": "additions et rectifications"
+  },
+  "remarks": "Additions et rectifications au Gallia Christiana"
+}

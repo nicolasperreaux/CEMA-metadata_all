@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "559",
+    "publication_type": "article",
+    "title": "L'abbaye normande de Savigny, chef d'ordre et fille de Cîteaux, Appendice I",
+    "auteurs": ["BUHOT (Jacqueline)"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1936",
+    "volume": null,
+    "tome": "36",
+    "pages": null,
+    "series": null,
+    "journal_title": "Le Moyen Âge",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Savigny",
+    "mentioned_place": "Savigny",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "étude"
+  },
+  "remarks": "Appendice I"
+}

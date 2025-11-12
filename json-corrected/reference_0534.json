@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "534",
+    "publication_type": "article",
+    "title": "Deux actes inconnus de Hugues de Pierrepont, évêque de Liège, et de Philippe le Noble, marquis de Namur",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1954",
+    "volume": null,
+    "tome": null,
+    "pages": "213-219",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "119",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Évêché de Liège",
+    "mentioned_place": "Liège, Namur",
+    "region": "Liège, Namur",
+    "country": "Belgique",
+    "institution_type": "évêché",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "actes"
+  },
+  "remarks": "Concernant Hugues de Pierrepont et Philippe le Noble"
+}

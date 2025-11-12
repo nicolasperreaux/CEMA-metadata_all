@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "526",
+    "publication_type": "book",
+    "title": "Bullarium Trajectense : romanorum pontificum Diplomata quotquot olim usque ad Urbanum papam VI (an. 1378) in veterem episcopatum trajectensem destinata",
+    "auteurs": ["BROM G."],
+    "place_of_publication": "Haga-Comitis",
+    "publisher": null,
+    "publication_dates": "1892-1896",
+    "volume": "2 vol",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Évêché d'Utrecht",
+    "mentioned_place": "Utrecht",
+    "region": null,
+    "country": "Pays-Bas",
+    "institution_type": "évêché",
+    "religious_order": null,
+    "temporal_coverage": "jusqu'à 1378",
+    "document_type": "bulles pontificales"
+  },
+  "remarks": "Bulles pontificales jusqu'au pape Urbain VI (1378)"
+}

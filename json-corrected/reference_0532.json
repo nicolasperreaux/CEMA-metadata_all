@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "532",
+    "publication_type": "article",
+    "title": "Chartes hennuyères de l'abbaye du Val-Saint-Georges de Salzinnes (Namur) (1202-1365)",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1951-1954",
+    "volume": null,
+    "tome": null,
+    "pages": "65-103",
+    "series": null,
+    "journal_title": "Documents et Rapports de la Société royale paléontologique et archéologique de l'Arrondissement judiciare de Charleroi",
+    "journal_volume": "49",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Val-Saint-Georges de Salzinnes",
+    "mentioned_place": "Salzinnes, Namur",
+    "region": "Namur, Hainaut",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": "1202-1365",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

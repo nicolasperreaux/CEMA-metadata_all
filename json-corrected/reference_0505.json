@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "505",
+    "publication_type": "article",
+    "title": "La tombe élevée d'un Panetier de Saint-Louis, Pierre Orighe : Notice contenant des renseignements sur les tombes de Sebourg et sur la vraie origine de la maison d'Hénin-Liétard, se disant faussement d'Alsace",
+    "auteurs": ["BRASSART F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1897",
+    "volume": null,
+    "tome": null,
+    "pages": "233-276",
+    "series": null,
+    "journal_title": "Bulletin de la Commission historique du département du Nord",
+    "journal_volume": "20",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Sebourg",
+    "region": "Nord",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "notice"
+  },
+  "remarks": "Concernant Pierre Orighe, Panetier de Saint-Louis, et la maison d'Hénin-Liétard"
+}

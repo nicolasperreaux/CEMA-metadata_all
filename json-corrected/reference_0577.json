@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "577",
+    "publication_type": "book",
+    "title": "Histoire de l'abbaye de Tamié en Savoie",
+    "auteurs": ["BURNIER (Eugène)"],
+    "place_of_publication": "Chambéry",
+    "publisher": null,
+    "publication_dates": "1865",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Tamié",
+    "mentioned_place": "Tamié",
+    "region": "Savoie",
+    "country": "France",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "histoire"
+  },
+  "remarks": null
+}

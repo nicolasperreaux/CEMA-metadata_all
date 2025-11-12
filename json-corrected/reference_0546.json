@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "546",
+    "publication_type": "article",
+    "title": "L'origine de l'abbaye du Val-Saint-Georges et la formation de son domaine",
+    "auteurs": ["BROUETTE E.", "DEJAIFFE J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1968",
+    "volume": null,
+    "tome": null,
+    "pages": "154-185",
+    "series": null,
+    "journal_title": "Citeaux",
+    "journal_volume": "19",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Val-Saint-Georges",
+    "mentioned_place": "Val-Saint-Georges",
+    "region": "Namur",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "étude"
+  },
+  "remarks": null
+}

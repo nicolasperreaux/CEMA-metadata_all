@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "541",
+    "publication_type": "article",
+    "title": "Supplément aux régestes de Thierry et de Philippe d'Alsace",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1956",
+    "volume": null,
+    "tome": null,
+    "pages": "65-69",
+    "series": null,
+    "journal_title": "Handelingen van het Genootschap voor Geschiedenis gesticht onder de Benaming\" Société d'Emulation\" te Brugge",
+    "journal_volume": "93",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": "Flandre",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "régestes"
+  },
+  "remarks": "Concernant Thierry et Philippe d'Alsace"
+}

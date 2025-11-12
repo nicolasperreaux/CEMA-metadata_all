@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "562",
+    "publication_type": "book",
+    "title": "Bullarium Franciscanum romanorum pontificum, tomus I ab Honorio III ad Innocentium IIII",
+    "auteurs": [],
+    "place_of_publication": "Rome",
+    "publisher": null,
+    "publication_dates": "1759",
+    "volume": null,
+    "tome": "I",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Franciscains",
+    "temporal_coverage": null,
+    "document_type": "bulles pontificales"
+  },
+  "remarks": "Bulles concernant l'ordre franciscain, d'Honorius III à Innocent IV"
+}

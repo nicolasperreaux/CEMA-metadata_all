@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "589",
+    "publication_type": "book",
+    "title": "Le livre des Franchises et libertés des habitants de Saint-Pons",
+    "auteurs": ["C. Chabaneau"],
+    "place_of_publication": "Montpellier",
+    "publisher": null,
+    "publication_dates": "1897",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Saint-Pons",
+    "region": "Languedoc",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "franchises et libertés"
+  },
+  "remarks": null
+}

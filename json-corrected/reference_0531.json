@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "531",
+    "publication_type": "article",
+    "title": "Chartes et documents inédits du prieuré de Saint Sauveur de Lérinnes (1225-1459)",
+    "auteurs": ["BROUETTE E."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1951",
+    "volume": null,
+    "tome": null,
+    "pages": "329-354",
+    "series": null,
+    "journal_title": "Bulletin de la Commission Royale d'Histoire",
+    "journal_volume": "116",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Prieuré de Saint Sauveur de Lérinnes",
+    "mentioned_place": "Lérinnes",
+    "region": "Hainaut",
+    "country": "Belgique",
+    "institution_type": "prieuré",
+    "religious_order": null,
+    "temporal_coverage": "1225-1459",
+    "document_type": "chartes et documents"
+  },
+  "remarks": null
+}

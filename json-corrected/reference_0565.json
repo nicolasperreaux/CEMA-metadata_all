@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "565",
+    "publication_type": "article",
+    "title": null,
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1864",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin de la Société d'agriculture, industrie, sciences et arts du département de la Lozère",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Lozère",
+    "region": "Languedoc",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Référence incomplète"
+}

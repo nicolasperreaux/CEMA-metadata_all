@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "502",
+    "publication_type": "article",
+    "title": "Choix de documents inédits concernant la seigneurie de Lalaing (1168-1727)",
+    "auteurs": ["BRASSART F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1889",
+    "volume": null,
+    "tome": null,
+    "pages": "5-134",
+    "series": "2e série",
+    "journal_title": "Souvenirs de la Flandre wallonne",
+    "journal_volume": "8",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Lalaing",
+    "region": "Flandre wallonne",
+    "country": "France/Belgique",
+    "institution_type": "seigneurie",
+    "religious_order": null,
+    "temporal_coverage": "1168-1727",
+    "document_type": "documents"
+  },
+  "remarks": null
+}

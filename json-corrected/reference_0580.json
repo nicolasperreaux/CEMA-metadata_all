@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "580",
+    "publication_type": "book",
+    "title": "Les trophées tant sacrés que profanes du duché de Brabant. La description des villes, franchises et baronnies du Brabant avec la succession généalogique des seigneurs. L'institution du conseil souverain et d'autres cours résidentes à Bruxelles",
+    "auteurs": ["BUTKENS CH."],
+    "place_of_publication": "La Haye",
+    "publisher": null,
+    "publication_dates": "1640 (1e ed), 1724-1726 (2e ed)",
+    "volume": "4 vol",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Duché de Brabant",
+    "mentioned_place": "Brabant, Bruxelles",
+    "region": "Brabant",
+    "country": "Belgique",
+    "institution_type": "duché",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "description historique"
+  },
+  "remarks": "1ère édition 1640, 2e édition 1724-1726"
+}

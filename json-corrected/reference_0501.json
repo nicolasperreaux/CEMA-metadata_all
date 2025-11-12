@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "501",
+    "publication_type": "book",
+    "title": "Papsturkunden des Nordens, Nord und Mitteldeutschlands",
+    "auteurs": ["Brackmann, A."],
+    "place_of_publication": "Göttingen",
+    "publisher": null,
+    "publication_dates": "1904",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Abdhandlungen der Gesellschaft der Wissenschaften zu Göttingen",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": "North and Central Germany",
+    "country": "Germany",
+    "institution_type": "papal",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "papal charter"
+  },
+  "remarks": "Papal charters of the North"
+}
