@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "4472",
+    "publication_type": "book",
+    "title": "Charte d'affranchissement de la ville de Thionville octroyée le 15 août 1239 par Henri II comte de Luxembourg (Mémoires de la Société de Lettres",
+    "auteurs": [
+      "TEISSIER C.F. Charte"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1825",
+    "volume": null,
+    "tome": null,
+    "pages": "p.25",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

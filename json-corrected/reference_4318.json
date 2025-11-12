@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "4318",
+    "publication_type": "thesis",
+    "title": "Die Urkunden Zwentibolds und Ludwigs des Kindes (Monumenta Germaniae Historica. Diplomata 3: Die Urkunden der deutschen Karolinger",
+    "auteurs": [
+      "SCHIEFFER TH. Die Urkunden Zwentibolds"
+    ],
+    "place_of_publication": "Berlin",
+    "publisher": null,
+    "publication_dates": "1960",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Monumenta Germaniae Historica. Diplomata 3: Die Urkunden der deutschen Karolinger, IV",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

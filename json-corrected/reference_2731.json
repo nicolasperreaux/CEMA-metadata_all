@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2731",
+    "publication_type": "book",
+    "title": "Arnoldi Chronica Slavorum (Monumenta Germaniae historica. Scriptores 7: Scriptores rerum Germanicarum in usum scholarum separatim editi",
+    "auteurs": [
+      "LAPPENBERG J.M. Arnoldi Chronica Slavorum"
+    ],
+    "place_of_publication": "Hannover",
+    "publisher": null,
+    "publication_dates": "1868",
+    "volume": null,
+    "tome": null,
+    "pages": "p.241-245",
+    "series": "Monumenta Germaniae historica. Scriptores 7: Scriptores rerum Germanicarum in usum scholarum separatim editi, 14",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

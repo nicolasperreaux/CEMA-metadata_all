@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3247",
+    "publication_type": "book",
+    "title": "Merlet René",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1909",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Archives de l'Eure-et-Loir : collection des cartulaires Chartrains, 2, fasc. 1",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

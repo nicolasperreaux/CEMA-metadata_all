@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "4444",
+    "publication_type": "book",
+    "title": "I. Egidius van Breedene (11.-1270) grafelijk ambtenaar en stichter van de abdij Spermalie. Bijdrage tot de geschiedenis van het grafelijk bestuur en van de Cistercienser Orde in het dertiendeeuwsche Vlaanderen (Rijksuniversiteit te Gent. Werken uitgegeven door de Faculteit van de Wijsbegeerte en Letteren",
+    "auteurs": [
+      "STRUBBE EG."
+    ],
+    "place_of_publication": "Brugge",
+    "publisher": null,
+    "publication_dates": "1942",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

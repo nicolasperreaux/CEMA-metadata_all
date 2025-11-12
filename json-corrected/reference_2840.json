@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2840",
+    "publication_type": "book",
+    "title": "LE ROY J. Topographia historica Gallo-Brabantiae. Qua Romanduae oppida",
+    "auteurs": [
+      "LE RO"
+    ],
+    "place_of_publication": "Amstelaedami",
+    "publisher": null,
+    "publication_dates": "1692",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

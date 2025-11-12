@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4212",
+    "publication_type": "article",
+    "title": "ROUSSEAU F. Les propriétés de l'abbaye d'Aulne à Namur au XIIIe siècle",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1911",
+    "volume": null,
+    "tome": null,
+    "pages": "p.203-245",
+    "series": null,
+    "journal_title": "Annales de la Société archéologique de Namur",
+    "journal_volume": "30",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4580",
+    "publication_type": "book",
+    "title": "THIERRY A. Recueil des monuments inédits de l'histoire du Tiers Etat. 1. Chartes",
+    "auteurs": [],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1850-1870",
+    "volume": "4 vol",
+    "tome": null,
+    "pages": "p.189-190",
+    "series": "Collection de Documents inédits sur l'Histoire de France, 1e série, I",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

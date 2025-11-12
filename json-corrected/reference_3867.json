@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3867",
+    "publication_type": "book",
+    "title": "POUPARDIN R. Recueil des chartes de l'abbaye de Saint-Germain-des-Prés des origines au début du XIIIe siècle (Publications de la Société de l'Histoire de Paris et de l'Ile-de-France)",
+    "auteurs": [],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1909-1932",
+    "volume": "2 vol",
+    "tome": null,
+    "pages": null,
+    "series": "Publications de la Société de l'Histoire de Paris et de l'Ile-de-France",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

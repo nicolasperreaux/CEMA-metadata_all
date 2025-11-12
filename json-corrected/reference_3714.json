@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3714",
+    "publication_type": "book",
+    "title": "Piolin Paul",
+    "auteurs": [],
+    "place_of_publication": "Lanier",
+    "publisher": null,
+    "publication_dates": "1851-1871",
+    "volume": "10 vol.",
+    "tome": "t. 3",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "church",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

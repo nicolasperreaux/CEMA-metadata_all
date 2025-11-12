@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "3373",
+    "publication_type": "book",
+    "title": "Rerum Italicarum scriptores ab anno aerae christianae quingentesimo ad millesimum quingentesimum. . .",
+    "auteurs": [
+      "MURATORI L.A. Rerum Italicarum"
+    ],
+    "place_of_publication": "Mediolani",
+    "publisher": null,
+    "publication_dates": "1723-1751",
+    "volume": "25 vol",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4257",
+    "publication_type": "book",
+    "title": "SAIGE (Gustave) et LACAILLE (Henri)",
+    "auteurs": [],
+    "place_of_publication": "Monaco",
+    "publisher": null,
+    "publication_dates": "1902",
+    "volume": null,
+    "tome": "t. 1",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

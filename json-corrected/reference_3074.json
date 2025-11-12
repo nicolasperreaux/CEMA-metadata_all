@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "3074",
+    "publication_type": "book",
+    "title": "MALLORQUÍ I GARCIA Elvis (éd.)",
+    "auteurs": [
+      "MALLORQUÍ I GARCIA Elvis"
+    ],
+    "place_of_publication": "Barcelona",
+    "publisher": null,
+    "publication_dates": "2013",
+    "volume": "2 volumes",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

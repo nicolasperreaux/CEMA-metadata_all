@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4113",
+    "publication_type": "article",
+    "title": "REUSENS E. Revue critique. Cartulaire de l'église Saint-Lambert de Liège",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": "p.93-210",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "25",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "church",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4484",
+    "publication_type": "book",
+    "title": "The Cartulary of Blythburgh Priory. Christopher Harper-Bill. Suffolk Charters",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1980-1981",
+    "volume": "2 vol.",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

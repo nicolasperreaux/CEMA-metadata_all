@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2939",
+    "publication_type": "book",
+    "title": "LÓPEZ CANELLAS Angel (éd.)",
+    "auteurs": [
+      "LÓPEZ CANELLAS Angel"
+    ],
+    "place_of_publication": "Zaragoza",
+    "publisher": null,
+    "publication_dates": "1962",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

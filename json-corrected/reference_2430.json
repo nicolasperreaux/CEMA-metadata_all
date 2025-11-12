@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2430",
+    "publication_type": "book",
+    "title": "JACQUES DE GUYSE. Histoire du Hainaut",
+    "auteurs": [
+      "JACQUES DE GU"
+    ],
+    "place_of_publication": "Bruxelles-Paris",
+    "publisher": null,
+    "publication_dates": "1826-1833",
+    "volume": "22 vol",
+    "tome": null,
+    "pages": "p.452-456",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

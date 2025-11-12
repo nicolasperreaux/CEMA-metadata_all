@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4055",
+    "publication_type": "article",
+    "title": "Rapport sur le cartulaire de l'abbaye d'Ourscamp",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1868",
+    "volume": null,
+    "tome": null,
+    "pages": "p.326-331",
+    "series": null,
+    "journal_title": "Bulletin de la Société historique et littéraire de Tournai",
+    "journal_volume": "12",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2005",
+    "publication_type": "book_chapter",
+    "title": "dans: Bijdragen tot de Geschiedenis bijzonderlijk van het aloude Hertogdom Brabant",
+    "auteurs": [
+      "GOETSCHALCKX P.J. Merxem"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1902",
+    "volume": null,
+    "tome": null,
+    "pages": "p.114-117",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

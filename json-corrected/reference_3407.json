@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3407",
+    "publication_type": "article",
+    "title": "NELIS H. Chartes inconnues de Philippe d'Alsace",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1925",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Annales de la Société d'Emulation de Bruges. Revue trimestrielle pour l'Etude de l'Histoire et des Antiquités de la Flandre",
+    "journal_volume": "68",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

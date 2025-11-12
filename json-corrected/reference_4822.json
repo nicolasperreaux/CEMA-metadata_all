@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4822",
+    "publication_type": "article",
+    "title": "VOS J. L' abbaye de Saint-Médard ou de Saint-Nicolas-des-Prés près de Tournai",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1873",
+    "volume": null,
+    "tome": null,
+    "pages": "p.1-383",
+    "series": null,
+    "journal_title": "Mémoires de la Société historique et littéraire de Tournai",
+    "journal_volume": "12",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2814",
+    "publication_type": "book",
+    "title": "LE MEN François et ERNAULT Émile (éd.)",
+    "auteurs": [
+      "LE MEN François"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1886",
+    "volume": null,
+    "tome": "t. 5",
+    "pages": "pp. 533-600",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

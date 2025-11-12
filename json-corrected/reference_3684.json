@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "3684",
+    "publication_type": "book_chapter",
+    "title": "M. De oudste statuten van het Sint-Elisabeths Gasthuis te Antwerpen",
+    "auteurs": [
+      "PHILIPPEN L.J."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1926",
+    "volume": null,
+    "tome": null,
+    "pages": "p.170-228",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

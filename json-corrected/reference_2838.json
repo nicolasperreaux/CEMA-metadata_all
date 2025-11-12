@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2838",
+    "publication_type": "book",
+    "title": "LE ROY A. Histoire de Nostre-Dame de Boulogne",
+    "auteurs": [
+      "LE RO"
+    ],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1682",
+    "volume": null,
+    "tome": null,
+    "pages": "p.274-275",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

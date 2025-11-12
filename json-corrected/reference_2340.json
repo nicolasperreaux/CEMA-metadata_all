@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2340",
+    "publication_type": "thesis",
+    "title": "Band 7: Die Urkunden des Kölnischen Westfalens von Jahr 1200-1300 (Vereine für Geschichte und Alterthumskunde Westfalens)",
+    "auteurs": [
+      "ILGEN TH. Westfäliches Urkundenbuch"
+    ],
+    "place_of_publication": "Münster",
+    "publisher": null,
+    "publication_dates": "1901-1908",
+    "volume": null,
+    "tome": "Band 7",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

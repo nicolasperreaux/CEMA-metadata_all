@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "3655",
+    "publication_type": "book",
+    "title": "Tomi primi supplementa. Constitutiones et acta regum Germanicorum. Capitularia spuria. Canones ecclesiastici. Bullae pontificum",
+    "auteurs": [
+      "PERTZ G.H. Tomi"
+    ],
+    "place_of_publication": "Hannover",
+    "publisher": null,
+    "publication_dates": "1837",
+    "volume": null,
+    "tome": null,
+    "pages": "p.210-211",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "acts"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3447",
+    "publication_type": "book_chapter",
+    "title": "NOTEBAERT A. Les chartes de l'abbaye de La Cambre concernant les biens et les droits de l' abbaye de Kornelimünster (Inde) à Kumtich",
+    "auteurs": [],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1987",
+    "volume": null,
+    "tome": null,
+    "pages": "p.361-375",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2869",
+    "publication_type": "article",
+    "title": "Histoire et archéologie. Les Estinnes",
+    "auteurs": [
+      "LEJEUNE TH. Histoire"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1878",
+    "volume": null,
+    "tome": null,
+    "pages": "p.3-200",
+    "series": null,
+    "journal_title": "Annales du Cercle archéologique de Mons",
+    "journal_volume": "15",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

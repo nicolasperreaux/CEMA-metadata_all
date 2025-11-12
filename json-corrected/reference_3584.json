@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3584",
+    "publication_type": "book_chapter",
+    "title": "PAQUAY J. Actes émanés du légat du Saint-Siège et de l'élu de Liège au siège d'Aix-la-Chapelle",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1903",
+    "volume": null,
+    "tome": null,
+    "pages": "p.104-112",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "acts"
+  },
+  "remarks": null
+}

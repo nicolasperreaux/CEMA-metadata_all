@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2871",
+    "publication_type": "article",
+    "title": "L'ancienne abbaye de La Thure (1244-1796)",
+    "auteurs": [
+      "LEJEUNE TH."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1867",
+    "volume": null,
+    "tome": null,
+    "pages": "p.233-282",
+    "series": null,
+    "journal_title": "Annales du Cercle archéologique de Mons",
+    "journal_volume": "7",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

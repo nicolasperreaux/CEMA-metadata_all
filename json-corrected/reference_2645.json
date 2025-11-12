@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2645",
+    "publication_type": "book",
+    "title": "Gheel vermaerd door den eerdienst der heilige Dimphna: geschied- en oudheidkundige beschryving der kerken",
+    "auteurs": [
+      "KUYL P.D. Gheel"
+    ],
+    "place_of_publication": "Antwerpen",
+    "publisher": null,
+    "publication_dates": "1863",
+    "volume": null,
+    "tome": null,
+    "pages": "p.20",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

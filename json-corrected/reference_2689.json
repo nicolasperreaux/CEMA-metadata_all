@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2689",
+    "publication_type": "thesis",
+    "title": "Urkundenbuch für die Geschichte des Niederrheins oder des Erzstifts Cöln",
+    "auteurs": [
+      "LACOMBLET TH. Urkundenbuch"
+    ],
+    "place_of_publication": "Düsseldorf",
+    "publisher": null,
+    "publication_dates": "1840-1858",
+    "volume": "4 vol",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2703",
+    "publication_type": "book",
+    "title": "LALORE Charles (éd.)",
+    "auteurs": [
+      "LALORE Charles"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1880",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Collection des principaux cartulaires du diocèse de Troyes, 5",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

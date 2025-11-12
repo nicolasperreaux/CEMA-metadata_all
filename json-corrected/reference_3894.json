@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3894",
+    "publication_type": "book",
+    "title": "Prou Maurice",
+    "auteurs": [],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1943-1955",
+    "volume": "3 vol.",
+    "tome": "t. 2",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "2875",
+    "publication_type": "book",
+    "title": "LELONG Eugène et BERTRAND DE BROUSSILON Arthur (éd.)",
+    "auteurs": [
+      "LELONG Eugène"
+    ],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1896-1903",
+    "volume": "3 volumes",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

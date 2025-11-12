@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "3465",
+    "publication_type": "book_chapter",
+    "title": "A. Onuitgegeven oorkonden betreffende de betrekkingen tusschen Holland en Brabant gedurende de dertiende eeuw",
+    "auteurs": [
+      "OBREEN H.G."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1913",
+    "volume": null,
+    "tome": null,
+    "pages": "p.476-499",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

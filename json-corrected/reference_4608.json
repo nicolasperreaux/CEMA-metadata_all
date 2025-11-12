@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4608",
+    "publication_type": "article",
+    "title": "TOILLIEZ A. Une charte de l'abbaye d'Epinlieu",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1863",
+    "volume": null,
+    "tome": null,
+    "pages": "p.104-110",
+    "series": null,
+    "journal_title": "Annales du Cercle archéologique de Mons",
+    "journal_volume": "2",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

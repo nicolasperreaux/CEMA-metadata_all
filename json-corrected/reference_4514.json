@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4514",
+    "publication_type": "book",
+    "title": "The Chartulary of Ronton Priory. Registrum Cartarum Prioratus de Ronton. G. Wrottesley. Collections for a History of Staffordshire V.4. William Salt Archaeological Society. London. 1883",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1883",
+    "volume": "V.4",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

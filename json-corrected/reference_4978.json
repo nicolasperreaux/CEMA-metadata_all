@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "4978",
+    "publication_type": "book",
+    "title": "WYSS A. Hessisches Urkundenbuch. Abt. 1: Urkundenbuch der Deutschordens-Ballei Hessen",
+    "auteurs": [],
+    "place_of_publication": "Leipzig",
+    "publisher": null,
+    "publication_dates": "1879",
+    "volume": null,
+    "tome": "Band 1",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Germany",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}
