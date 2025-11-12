@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "134",
+    "publication_type": "article",
+    "title": null,
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1950",
+    "volume": null,
+    "tome": null,
+    "pages": "4",
+    "series": null,
+    "journal_title": "Affligemensia",
+    "journal_volume": "7",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Affligem",
+    "mentioned_place": "Affligem",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Missing author and article title; published in Hekelgem"
+}

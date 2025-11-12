@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "108",
+    "publication_type": "monograph",
+    "title": "achträge Göttweig",
+    "auteurs": [],
+    "place_of_publication": "Wien",
+    "publisher": null,
+    "publication_dates": "1931",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "FRA II/69",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Göttweig",
+    "mentioned_place": "Göttweig",
+    "region": null,
+    "country": "Austria",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Title appears truncated; missing author"
+}

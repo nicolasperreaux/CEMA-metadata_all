@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "147",
+    "publication_type": "monograph",
+    "title": "Die Fälschung der ältesten Reinhardsbrunner Urkunden",
+    "auteurs": ["Naudé, Albert"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Reinhardsbrunn",
+    "mentioned_place": "Reinhardsbrunn",
+    "region": "Thüringen",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Title appears truncated; from Fonds HStA Stuttgart"
+}

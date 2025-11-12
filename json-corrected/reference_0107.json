@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "107",
+    "publication_type": "monograph",
+    "title": "Mainzer Urkundenbuch. Zweiter Band: Die Urkunden seit dem Tode Erzbischof Adalberts I. (1137) bis zum Tode Erzbischof Konrads (1200)",
+    "auteurs": ["Acht, P."],
+    "place_of_publication": "Darmstadt",
+    "publisher": null,
+    "publication_dates": "1971",
+    "volume": "2/1",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Erzbistum Mainz",
+    "mentioned_place": "Mainz",
+    "region": "Rheinland",
+    "country": "Germany",
+    "institution_type": "archbishopric",
+    "religious_order": null,
+    "temporal_coverage": "XIIe siècle",
+    "document_type": "collection"
+  },
+  "remarks": "2 volumes total"
+}

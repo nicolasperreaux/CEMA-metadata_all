@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "128",
+    "publication_type": "article",
+    "title": "La donation du \"bourg\" de Trun à l'Abbaye de Saint-Étienne de Caen par Roger II de Montgomeri",
+    "auteurs": ["Adigard des Gautries, Jean"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1953",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin de la Société historique et archéologique de l'Orne",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Étienne de Caen",
+    "mentioned_place": "Trun",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

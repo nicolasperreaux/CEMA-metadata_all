@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "106",
+    "publication_type": "article",
+    "title": "Abschr. der Notitia fundationis des Kl. St. Georgen auf dem Schwarzwald",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1850",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Zeitschrift für die Geschichte des Oberrheins",
+    "journal_volume": "1",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Kloster St. Georgen",
+    "mentioned_place": "St. Georgen",
+    "region": "Schwarzwald",
+    "country": "Germany",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Complex reference with multiple volume numbers mentioned; anonymous article"
+}
