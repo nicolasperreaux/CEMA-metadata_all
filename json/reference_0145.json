@@ -1,0 +1,30 @@
+{
+  "publication": {
+    "publication_type": "monograph",
+    "title": "Gallia christiana novissima. Histoire des archevêchés, évêques et abbayes de france. Provinces d'Albi, Aix, Arles, Avignon et Auch",
+    "auteurs": ["Albanes, Joseph-Hyacinthe"],
+    "place_of_publication": "Montbéliard",
+    "publisher": "Hoffmann",
+    "publication_dates": "1899-1920",
+    "volume": "vol. 1",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "collection"
+  },
+  "remarks": null
+}
