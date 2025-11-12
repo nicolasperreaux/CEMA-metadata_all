@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "930",
+    "publication_type": "book",
+    "title": "Bullarum privilegiorum ac diplomatum Romanorum pontificum amplissima collectio",
+    "auteurs": ["COCQUELINES C."],
+    "place_of_publication": "Romae",
+    "publisher": null,
+    "publication_dates": "1733-1762",
+    "volume": "32 tomes",
+    "tome": "3",
+    "pages": "p.272-274",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "bulles pontificales"
+  },
+  "remarks": null
+}

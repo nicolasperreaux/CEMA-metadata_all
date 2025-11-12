@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "779",
+    "publication_type": "book",
+    "title": "Chartes de l'abbaye de Corbigny",
+    "auteurs": ["A. de Charmasse"],
+    "place_of_publication": "Autun",
+    "publisher": null,
+    "publication_dates": "1889",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Corbigny",
+    "mentioned_place": "Corbigny",
+    "region": "Burgundy",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "Charters"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "890",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye de Notre-Dame de Léoncel au diocèse de Die, ordre de Cîteaux",
+    "auteurs": ["CHEVALIER (Ulysse)"],
+    "place_of_publication": "Montélimar",
+    "publisher": null,
+    "publication_dates": "1869",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Notre-Dame de Léoncel",
+    "mentioned_place": "Léoncel",
+    "region": "Die",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

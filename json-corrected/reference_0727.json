@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "727",
+    "publication_type": "book",
+    "title": "Chartes & documents de l'abbaye cistercienne de Preuilly, publiés et mis en ordre avec introduction, notes et tables",
+    "auteurs": ["A. Catel", "M. Lecomte"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1927",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Preuilly",
+    "mentioned_place": "Preuilly",
+    "region": null,
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "Charters"
+  },
+  "remarks": null
+}

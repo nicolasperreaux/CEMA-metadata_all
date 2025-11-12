@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "946",
+    "publication_type": "article",
+    "title": "Coutumes de Montbartier",
+    "auteurs": ["Colonel de Bourdès"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin de la Société Archéologique du Tarn-et-Garonne",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Montbartier",
+    "region": "Quercy",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "coutumes"
+  },
+  "remarks": null
+}

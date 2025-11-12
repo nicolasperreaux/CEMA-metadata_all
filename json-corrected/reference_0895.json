@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "895",
+    "publication_type": "book",
+    "title": "Chartes et documents de Saint-Bénigne de Dijon : prieurés et dépendances, des origines à 1300",
+    "auteurs": ["CHEVRIER G.", "CHAUME M."],
+    "place_of_publication": "Dijon",
+    "publisher": null,
+    "publication_dates": "1943-1986",
+    "volume": "2 volumes",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Saint-Bénigne de Dijon",
+    "mentioned_place": "Dijon",
+    "region": "Burgundy",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "origins-1300",
+    "document_type": "charters"
+  },
+  "remarks": null
+}

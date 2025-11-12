@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "625",
+    "publication_type": "article",
+    "title": "Les reliques de sainte Godelieve à Ghistelles et leurs authentiques",
+    "auteurs": ["C. CALLEWAERT"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1908",
+    "volume": "58",
+    "tome": null,
+    "pages": "69-91",
+    "series": null,
+    "journal_title": "Annales de la Société d'Emulation de Bruges. Revue trimestrielle pour l'Etude de l'Histoire et des Antiquités de la Flandre",
+    "journal_volume": "58",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Ghistelles",
+    "region": "Flandre",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "reliques"
+  },
+  "remarks": "Reliques de sainte Godelieve"
+}

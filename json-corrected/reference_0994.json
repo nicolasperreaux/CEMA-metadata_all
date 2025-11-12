@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "994",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye du Val-Benoît",
+    "auteurs": ["CUVELIER J."],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1906",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Publications de la Commission royale d'Histoire. Chroniques belges inédites. Series I in 4°",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye du Val-Benoît",
+    "mentioned_place": "Val-Benoît",
+    "region": "Liège",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

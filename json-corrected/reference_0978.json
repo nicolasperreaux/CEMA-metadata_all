@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "978",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye de Redon",
+    "auteurs": ["COURSON Aurélien, de"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1863",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Redon",
+    "mentioned_place": "Redon",
+    "region": "Bretagne",
+    "country": "France",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

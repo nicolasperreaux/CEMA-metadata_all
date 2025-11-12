@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "880",
+    "publication_type": "article",
+    "title": "L'abbaye de Corcelles du milieu à la fin du XIIe siècle",
+    "auteurs": ["CHAUVIN Benoît", "OLIVIER Laurent"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2005",
+    "volume": "XLVII",
+    "tome": null,
+    "pages": "151-174",
+    "series": null,
+    "journal_title": "Mémoires de la Société d'émulation du Doubs",
+    "journal_volume": "XLVII",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Corcelles",
+    "mentioned_place": "Corcelles",
+    "region": "Doubs",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": "12th century",
+    "document_type": null
+  },
+  "remarks": null
+}

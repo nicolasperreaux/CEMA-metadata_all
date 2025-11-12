@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "633",
+    "publication_type": "book",
+    "title": "Early Scottish charters : prior to A.D. 1153",
+    "auteurs": ["Archibald CAMPBELL LAWRIE"],
+    "place_of_publication": "Glasgow",
+    "publisher": "J. MacLehose and Sons",
+    "publication_dates": "1905",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Écosse",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "avant 1153",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

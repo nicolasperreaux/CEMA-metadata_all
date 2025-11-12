@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "934",
+    "publication_type": "book",
+    "title": "Codex principis olim Laureshamensis abbatiae diplomaticus ex aevo maxime Carolingico diu multumque disideratus",
+    "auteurs": [],
+    "place_of_publication": "Mannheim",
+    "publisher": "Academia electoralis scientiarum et elegantiorum litterarum Theodoro-Palatinae",
+    "publication_dates": "1768-70",
+    "volume": "3 Bde.",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Lorsch",
+    "mentioned_place": "Lorsch",
+    "region": "Hesse",
+    "country": "Allemagne",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": "époque carolingienne",
+    "document_type": "codex diplomatique"
+  },
+  "remarks": null
+}

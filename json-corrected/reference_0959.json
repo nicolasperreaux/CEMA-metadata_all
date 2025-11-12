@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "959",
+    "publication_type": "thèse",
+    "title": "Archives et bibliothèque à Cîteaux : entreprises d'écritures au Moyen Âge (XIIe siècle – début du XVIe siècle)",
+    "auteurs": ["Coraline Rey"],
+    "place_of_publication": "Dijon",
+    "publisher": "Université de Bourgogne Franche-Comté",
+    "publication_dates": "2019",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cîteaux",
+    "mentioned_place": "Cîteaux",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": "XIIe siècle - début du XVIe siècle",
+    "document_type": "thèse"
+  },
+  "remarks": "Thèse de doctorat sous la direction de D. Russo et E. Magnani, URL : https://hal.archives-ouvertes.fr/tel-02509626"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "660",
+    "publication_type": "article",
+    "title": "La escritura de concordia entre Don Diego Peláez, obispo de Santiago, y San Fagildo, Abad del monasterio de Antealtares",
+    "auteurs": ["Jesús Carro García"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1949",
+    "volume": "IV",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Cuadernos de Estudios Gallegos",
+    "journal_volume": "IV",
+    "journal_issue": "12",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "monasterio de Antealtares",
+    "mentioned_place": "Santiago",
+    "region": "Galicia",
+    "country": "Espagne",
+    "institution_type": "monastère",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "acte de concorde"
+  },
+  "remarks": "Accord entre l'évêque Diego Peláez et l'abbé Fagildo"
+}

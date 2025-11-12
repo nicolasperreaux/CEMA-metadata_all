@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "710",
+    "publication_type": "book",
+    "title": "Cartulary of the Knights of St. John of Jerusalem",
+    "auteurs": ["M. Gervers"],
+    "place_of_publication": "Oxford",
+    "publisher": "British Academy, Oxford University Press",
+    "publication_dates": "1982-1996",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Records of Social and Economic History, New Series 6, 23",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Knights of St. John of Jerusalem",
+    "mentioned_place": "Jerusalem",
+    "region": null,
+    "country": "England",
+    "institution_type": "Military order",
+    "religious_order": "Knights of St. John",
+    "temporal_coverage": null,
+    "document_type": "Cartulary"
+  },
+  "remarks": null
+}

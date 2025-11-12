@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "916",
+    "publication_type": "article",
+    "title": "El monasterio de San Clodio",
+    "auteurs": ["Cid Rodríguez, Cándido"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1919",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Boletín de la Comisión Provincial de Monumentos Históricos y Artísticos de Orense",
+    "journal_volume": "VI",
+    "journal_issue": "nº 127",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "San Clodio",
+    "mentioned_place": "San Clodio",
+    "region": "Galice",
+    "country": "Espagne",
+    "institution_type": "monastère",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "édition"
+  },
+  "remarks": null
+}

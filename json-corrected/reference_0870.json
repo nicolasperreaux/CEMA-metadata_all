@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "870",
+    "publication_type": "book",
+    "title": "Chartulary of the Cistercian Abbey of St. Mary of Sallay in Craven",
+    "auteurs": ["Joseph MacNulty"],
+    "place_of_publication": "Wakefield",
+    "publisher": "Yorkshire Archaeological Society, West Yorkshire Print Co",
+    "publication_dates": "1933-1934",
+    "volume": "V.87, 99",
+    "tome": null,
+    "pages": null,
+    "series": "Yorkshire Archaeological Society",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cistercian Abbey of St. Mary of Sallay",
+    "mentioned_place": "Sallay in Craven",
+    "region": "Yorkshire",
+    "country": "England",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

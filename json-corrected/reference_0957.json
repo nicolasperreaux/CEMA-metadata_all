@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "957",
+    "publication_type": "article",
+    "title": "Regestes de Philippe d'Alsace, comte de Flandre",
+    "auteurs": ["COPPIETERS STOCHOVE H."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1906",
+    "volume": null,
+    "tome": null,
+    "pages": "p.1-177",
+    "series": null,
+    "journal_title": "Annales de la Société d'Histoire et d'Archéologie de Gand",
+    "journal_volume": "7",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Flandre",
+    "region": "Flandre",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "règne de Philippe d'Alsace",
+    "document_type": "regestes"
+  },
+  "remarks": null
+}

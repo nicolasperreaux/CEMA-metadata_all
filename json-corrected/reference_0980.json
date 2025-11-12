@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "980",
+    "publication_type": "article",
+    "title": "Le travail et le commerce de la pierre à Namur avant 1500",
+    "auteurs": ["COURTOY F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1946",
+    "volume": null,
+    "tome": null,
+    "pages": "p.16-29, p.29",
+    "series": null,
+    "journal_title": "Namurcum",
+    "journal_volume": "21",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Namur",
+    "region": "Namurois",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "avant 1500",
+    "document_type": "étude économique"
+  },
+  "remarks": null
+}

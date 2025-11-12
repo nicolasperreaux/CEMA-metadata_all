@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "883",
+    "publication_type": "article",
+    "title": "Orimont, communauté féminine cistercienne éphémère au diocèse de Langres (milieu XIIe-milieu XIIIe siècle)",
+    "auteurs": ["CHAUVIN Benoît"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2011",
+    "volume": "27",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin de la Société Historique et Archéologique de Langres",
+    "journal_volume": "27",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Orimont",
+    "mentioned_place": "Orimont",
+    "region": "Langres",
+    "country": "France",
+    "institution_type": "community",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "12th-13th century",
+    "document_type": null
+  },
+  "remarks": "Communauté féminine cistercienne éphémère"
+}

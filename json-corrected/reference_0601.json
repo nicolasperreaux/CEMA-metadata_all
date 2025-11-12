@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "601",
+    "publication_type": "article",
+    "title": "Coutumes de la ville de Puylaurens au Moyen Age",
+    "auteurs": ["C. Pradel"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Revue du Tarn",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Puylaurens",
+    "region": null,
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "Moyen Age",
+    "document_type": "coutumes"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "730",
+    "publication_type": "book",
+    "title": "Documents sur la principauté de Liège (1230-1532) spécialement au début du XVIe siècle: extraits des papiers du cardinal Jérôme Aléandre",
+    "auteurs": ["A. Cauchie", "A. van Hove"],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1908-1920",
+    "volume": "2",
+    "tome": null,
+    "pages": null,
+    "series": "Publications de la Commission royale d'Histoire, Series II in 8°",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Principauté de Liège",
+    "mentioned_place": "Liège",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "Principality",
+    "religious_order": null,
+    "temporal_coverage": "1230-1532",
+    "document_type": "Documents"
+  },
+  "remarks": null
+}

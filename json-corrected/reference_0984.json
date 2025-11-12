@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "984",
+    "publication_type": "book",
+    "title": "Coventry and Lichfield 1215-1256",
+    "auteurs": ["Jeffrey H. Denton", "Philippa Hoskin"],
+    "place_of_publication": "Oxford",
+    "publisher": "British Academy, Oxford University Press",
+    "publication_dates": "2014",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "English Episcopal Acta Volume 43-44",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "évêché de Coventry and Lichfield",
+    "mentioned_place": "Coventry, Lichfield",
+    "region": null,
+    "country": "Angleterre",
+    "institution_type": "évêché",
+    "religious_order": null,
+    "temporal_coverage": "1215-1256",
+    "document_type": "actes épiscopaux"
+  },
+  "remarks": null
+}

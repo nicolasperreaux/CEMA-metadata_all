@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "618",
+    "publication_type": "book",
+    "title": "Calendar of the Plea Rolls of the Exchequer of the Jews. Henry III 1272; Edward I 1275-1277",
+    "auteurs": ["H. G. Richardson"],
+    "place_of_publication": "London",
+    "publisher": "Jewish Historical Society of England",
+    "publication_dates": "1972",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Exchequer of the Jews",
+    "mentioned_place": null,
+    "region": null,
+    "country": "Angleterre",
+    "institution_type": "institution royale",
+    "religious_order": null,
+    "temporal_coverage": "1272-1277",
+    "document_type": "plea rolls"
+  },
+  "remarks": "Henry III 1272; Edward I 1275-1277"
+}

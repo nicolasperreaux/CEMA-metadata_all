@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "999",
+    "publication_type": "book",
+    "title": "De oudste particuliere oorkonden van het klooster Werden : een diplomatische studie met enige uitweidingen over het ontstaan van dit soort oorkonden in het algemeen",
+    "auteurs": ["D.P. Blok"],
+    "place_of_publication": "Assen",
+    "publisher": "Van Gorcum",
+    "publication_dates": "1960",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Werden",
+    "mentioned_place": "Werden",
+    "region": "Rhénanie",
+    "country": "Allemagne",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "étude diplomatique"
+  },
+  "remarks": null
+}

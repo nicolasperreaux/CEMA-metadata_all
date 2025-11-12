@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "772",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye de Saint-Vincent du Mans (Ordre de Saint-Benoît), premier cartulaire : 572-1188",
+    "auteurs": ["Charles Robert (Abbé)", "Samuel Menjot d'elbenne"],
+    "place_of_publication": "Mamers",
+    "publisher": "Fleury (Société historique et archéologique du Maine)",
+    "publication_dates": "1886-1913",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Vincent du Mans",
+    "mentioned_place": "Le Mans",
+    "region": "Maine",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "572-1188",
+    "document_type": "Cartulary"
+  },
+  "remarks": null
+}

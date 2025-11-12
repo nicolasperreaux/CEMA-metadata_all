@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "847",
+    "publication_type": "book",
+    "title": "Charters of the New Minster, Winchester",
+    "auteurs": ["Sean Miller"],
+    "place_of_publication": "Oxford",
+    "publisher": "British Academy, Oxford University Press",
+    "publication_dates": "2001",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Anglo-Saxon Charters 9",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "New Minster, Winchester",
+    "mentioned_place": "Winchester",
+    "region": null,
+    "country": "England",
+    "institution_type": "minster",
+    "religious_order": null,
+    "temporal_coverage": "Anglo-Saxon",
+    "document_type": "charters"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "723",
+    "publication_type": "article",
+    "title": "El monasterio de Santa Clara de Santiago de Compostela",
+    "auteurs": ["Manuel de Castro y Castro"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1983",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Archivo Iberoamericano. Segunda época",
+    "journal_volume": "XLIII",
+    "journal_issue": "169-170",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Santa Clara de Santiago de Compostela",
+    "mentioned_place": "Santiago de Compostela",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "Monastery",
+    "religious_order": "Poor Clares",
+    "temporal_coverage": null,
+    "document_type": "Documents"
+  },
+  "remarks": null
+}

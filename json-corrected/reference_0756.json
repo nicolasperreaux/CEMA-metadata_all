@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "756",
+    "publication_type": "book",
+    "title": "Les seigneurs de Florennes, leurs sceaux et leurs monnaies, pour faire suite aux recherches sur les monnaies des comtes de Namur",
+    "auteurs": ["R. Chalon"],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1869",
+    "volume": "37",
+    "tome": null,
+    "pages": null,
+    "series": "Mémoires de l'Académie royale des Sciences, des Lettres et des Beaux-Arts de Belgique",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Florennes",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "Lordship",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "Numismatic study"
+  },
+  "remarks": null
+}

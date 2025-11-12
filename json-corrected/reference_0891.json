@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "891",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye de Saint-André-le-Bas de Vienne (ordre de saint Benoît) suivi d'un appendice de chartes inédites sur le diocèse de Vienne (IXe-XIIe siècles)",
+    "auteurs": ["CHEVALIER (Ulysse)"],
+    "place_of_publication": "Vienne-Lyon",
+    "publisher": null,
+    "publication_dates": "1869",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Collection des cartulaires dauphinois, I",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Saint-André-le-Bas de Vienne",
+    "mentioned_place": "Vienne",
+    "region": "Dauphiné",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "9th-12th century",
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

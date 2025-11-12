@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "960",
+    "publication_type": "book",
+    "title": "Hierarchia Augustana chronologica tripartita [...] id est series [et] descriptio Augustanorum episcoporum",
+    "auteurs": ["Corbinian Khamm"],
+    "place_of_publication": "Augsburg",
+    "publisher": null,
+    "publication_dates": "1709-19",
+    "volume": "3 Bde.",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "évêché d'Augsbourg",
+    "mentioned_place": "Augsbourg",
+    "region": "Bavière",
+    "country": "Allemagne",
+    "institution_type": "évêché",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "hiérarchie épiscopale"
+  },
+  "remarks": null
+}

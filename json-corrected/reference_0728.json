@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "728",
+    "publication_type": "book",
+    "title": "Abbaye du Mas-d'Azil. Monographie et cartulaire, 817-1774",
+    "auteurs": ["David Cau-Durban"],
+    "place_of_publication": "Foix",
+    "publisher": null,
+    "publication_dates": "1896",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Mas-d'Azil",
+    "mentioned_place": "Mas-d'Azil",
+    "region": "Ariège",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": null,
+    "temporal_coverage": "817-1774",
+    "document_type": "Cartulary"
+  },
+  "remarks": null
+}

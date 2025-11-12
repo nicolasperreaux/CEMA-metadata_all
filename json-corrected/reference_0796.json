@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "796",
+    "publication_type": "article",
+    "title": "Charters of Byland Abbey relating to the Grange of Bleatarn, Westmorland. Two Twelfth-Century Agreements made between Newburgh Priory and Byland Abbey",
+    "auteurs": ["Janet Elizabeth Burton"],
+    "place_of_publication": "Kendal, Cumbria",
+    "publisher": null,
+    "publication_dates": "1979",
+    "volume": "79",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Transactions of the Cumberland and Westmorland Antiquarian and Archaeological Society",
+    "journal_volume": null,
+    "journal_issue": "Series: 2",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Byland Abbey",
+    "mentioned_place": "Bleatarn, Westmorland",
+    "region": "Cumbria",
+    "country": "England",
+    "institution_type": "Abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "12th century",
+    "document_type": "Charters"
+  },
+  "remarks": null
+}

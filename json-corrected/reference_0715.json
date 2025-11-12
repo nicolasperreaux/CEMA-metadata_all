@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "715",
+    "publication_type": "book",
+    "title": "Monasteria Germaniae praecipua ac maxime illustria. Centuria prima, in qua origines, annales ac celebrioria cuiusq[ue] monumenta [...] recensentur",
+    "auteurs": ["Caspar Brusch"],
+    "place_of_publication": "Ingolstadt",
+    "publisher": null,
+    "publication_dates": "1551",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Germany",
+    "institution_type": "Monasteries",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "Reference work"
+  },
+  "remarks": "Second edition titled: Chronologia monasteriorum Germaniae praecipuorum ac maxime illu"
+}

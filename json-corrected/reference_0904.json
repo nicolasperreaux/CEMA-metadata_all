@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "904",
+    "publication_type": "book",
+    "title": "The Cartulary of Fervaques Abbey, a Cistercian Nunnery",
+    "auteurs": ["Chris Schabel"],
+    "place_of_publication": "Chypre-Paris",
+    "publisher": "IRHT",
+    "publication_dates": "2020",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Fervaques",
+    "mentioned_place": "Fervaques",
+    "region": null,
+    "country": "Chypre",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": "Cistercian Nunnery (abbaye féminine)"
+}

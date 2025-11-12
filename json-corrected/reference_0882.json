@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "882",
+    "publication_type": "article",
+    "title": "Vie et survie d'une abbaye de moniales cisterciennes (milieu XIIIe-milieu XVe s.) : le cas d'Ounans",
+    "auteurs": ["CHAUVIN Benoît", "OLIVIER Laurent"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2004",
+    "volume": null,
+    "tome": null,
+    "pages": "33-64",
+    "series": null,
+    "journal_title": "Travaux ... de la Société d'émulation du Jura",
+    "journal_volume": "2004",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye d'Ounans",
+    "mentioned_place": "Ounans",
+    "region": "Jura",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "13th-15th century",
+    "document_type": null
+  },
+  "remarks": "Moniales cisterciennes"
+}

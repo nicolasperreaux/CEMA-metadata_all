@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "876",
+    "publication_type": "book",
+    "title": "L'abbaye de moniales cisterciennes de Vauxbons au diocèse de Langres (… 1175 - 1394…). Étude historique et édition du chartrier",
+    "auteurs": ["CHAUVIN Benoît"],
+    "place_of_publication": "Devecey",
+    "publisher": null,
+    "publication_dates": "2004",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Vauxbons",
+    "mentioned_place": "Vauxbons",
+    "region": "Langres",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "1175-1394",
+    "document_type": null
+  },
+  "remarks": "Moniales cisterciennes"
+}

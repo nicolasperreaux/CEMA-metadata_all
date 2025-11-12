@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "867",
+    "publication_type": "book",
+    "title": "Chartulary of the Augustinian Priory of St. John the Evangelist of the Park of Healaugh",
+    "auteurs": ["J. S. Purvis"],
+    "place_of_publication": "Wakefield",
+    "publisher": "Yorkshire Archaeological Society, West Yorkshire Print Co",
+    "publication_dates": "1936",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Yorkshire Archaeological Society, V.92",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Augustinian Priory of St. John the Evangelist of the Park of Healaugh",
+    "mentioned_place": "Healaugh",
+    "region": "Yorkshire",
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": "Augustinian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

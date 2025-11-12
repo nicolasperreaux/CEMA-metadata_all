@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "803",
+    "publication_type": "article",
+    "title": "Charters of Cumbwell Priory",
+    "auteurs": [],
+    "place_of_publication": "Maidstone",
+    "publisher": "Kent Archaeological Society",
+    "publication_dates": "1863",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Kent Archaeological Society Archaeologia Cantiana",
+    "journal_volume": "V.5, 6, 8",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cumbwell Priory",
+    "mentioned_place": "Cumbwell",
+    "region": "Kent",
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charters"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "884",
+    "publication_type": "article",
+    "title": "Poulangy, abbaye cistercienne ? (...1147-1233...)",
+    "auteurs": ["CHAUVIN Benoît"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2004",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Les Cahiers haut-marnais",
+    "journal_volume": "236-237",
+    "journal_issue": "236-237",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Poulangy",
+    "mentioned_place": "Poulangy",
+    "region": "Haute-Marne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "1147-1233",
+    "document_type": null
+  },
+  "remarks": null
+}

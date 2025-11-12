@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "734",
+    "publication_type": "reference",
+    "title": "Cartae cluniacenses electronicae. Datenbank der Urkunden der Abtei Cluny (802-1300)",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": "Institut für Frühmittelalterforschung — WWU Münster",
+    "publication_dates": "2009",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cluny Abbey",
+    "mentioned_place": "Cluny",
+    "region": "Burgundy",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": "Cluniac",
+    "temporal_coverage": "802-1300",
+    "document_type": "Database"
+  },
+  "remarks": "Electronic database accessed 16/05/2009"
+}

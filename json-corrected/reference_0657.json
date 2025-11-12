@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "657",
+    "publication_type": "article",
+    "title": "De kleur van een kleed en tienden: de relatie tussen het Sint-Walburgakappitel en de Sint-Niklaasabdij van Veurne",
+    "auteurs": ["M. CARNIER"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1996",
+    "volume": "72",
+    "tome": null,
+    "pages": "109-138",
+    "series": null,
+    "journal_title": "Analecta Praemonstratensia",
+    "journal_volume": "72",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Sint-Walburgakappitel, Sint-Niklaasabdij",
+    "mentioned_place": "Veurne",
+    "region": null,
+    "country": "Belgique",
+    "institution_type": "chapitre, abbaye",
+    "religious_order": "Prémontrés",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Relation entre le chapitre et l'abbaye"
+}

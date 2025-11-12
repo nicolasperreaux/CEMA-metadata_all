@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "647",
+    "publication_type": "article",
+    "title": "Mélanges",
+    "auteurs": ["U. CAPITAINE"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1859",
+    "volume": "4",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin de Société liégeoise de Littérature wallonne",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Liège",
+    "region": null,
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

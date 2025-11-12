@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "706",
+    "publication_type": "book",
+    "title": "Cartulary of St. Michael's Mount",
+    "auteurs": ["P. L. Hull"],
+    "place_of_publication": "Torquay",
+    "publisher": "Devon and Cornwall Record Society, Devonshire Press",
+    "publication_dates": "1962",
+    "volume": "5",
+    "tome": null,
+    "pages": null,
+    "series": "Devon and Cornwall Record Society, New Series",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "St. Michael's Mount",
+    "mentioned_place": "St. Michael's Mount",
+    "region": "Cornwall",
+    "country": "England",
+    "institution_type": "Religious institution",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "Cartulary"
+  },
+  "remarks": null
+}

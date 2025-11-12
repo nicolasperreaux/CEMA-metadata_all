@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "637",
+    "publication_type": "book",
+    "title": "Statuta capitulorum generalium ordinis Cisterciensis ab anno 1116 ad annum 1786",
+    "auteurs": ["J.-M. CANIVEZ"],
+    "place_of_publication": "Louvain",
+    "publisher": null,
+    "publication_dates": "1933-1941",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Bibliothèque de la Revue d'Histoire ecclésiastique, 9-14b",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Cisterciens",
+    "temporal_coverage": "1116-1786",
+    "document_type": "statuts"
+  },
+  "remarks": "Chapitres généraux de l'ordre cistercien"
+}

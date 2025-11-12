@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "940",
+    "publication_type": "book",
+    "title": "Die Urkunden und Akten des Klosters und des Oberamts Königsfelden, 1308-1662",
+    "auteurs": ["Colette Halter-Pernet", "Tobias Hodel", "Simon Teuscher"],
+    "place_of_publication": "Zürich",
+    "publisher": "Universität Zürich",
+    "publication_dates": "2021",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Königsfelden",
+    "mentioned_place": "Königsfelden",
+    "region": "Argovie",
+    "country": "Suisse",
+    "institution_type": "abbaye",
+    "religious_order": "Clarisses",
+    "temporal_coverage": "1308-1662",
+    "document_type": "actes"
+  },
+  "remarks": null
+}

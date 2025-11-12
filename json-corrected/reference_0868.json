@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "868",
+    "publication_type": "book",
+    "title": "Chartulary of the Austin Priory of Trentham",
+    "auteurs": ["Rev. F. Parker"],
+    "place_of_publication": "London",
+    "publisher": "Staffordshire Record Society, Harrison and Sons",
+    "publication_dates": "1890",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "The William Salt Archaeological Society, Collections for a History of Staffordshire, V.11",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Austin Priory of Trentham",
+    "mentioned_place": "Trentham",
+    "region": "Staffordshire",
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": "Augustinian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

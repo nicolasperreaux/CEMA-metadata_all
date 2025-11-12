@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "846",
+    "publication_type": "article",
+    "title": "Charters of the Monks of Horton Priory",
+    "auteurs": ["J. R. Scott"],
+    "place_of_publication": "Maidstone",
+    "publisher": "Kent Archaeological Society",
+    "publication_dates": "1876",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Archaeologia Cantiana",
+    "journal_volume": "V.10",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Horton Priory",
+    "mentioned_place": "Horton",
+    "region": "Kent",
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charters"
+  },
+  "remarks": null
+}

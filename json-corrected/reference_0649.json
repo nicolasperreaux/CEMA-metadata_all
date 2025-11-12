@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "649",
+    "publication_type": "article",
+    "title": "18 Bullen Pabst Innocenz IV. aus dem Copiarium des Cölner Domstifts",
+    "auteurs": ["H. CARDAUNS"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1870",
+    "volume": "21-22",
+    "tome": null,
+    "pages": "281-287",
+    "series": null,
+    "journal_title": "Annalen des Historischen Vereins für den Niederrhein insbesondere das alte Erzbistum Köln",
+    "journal_volume": "21-22",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cölner Domstift",
+    "mentioned_place": "Cologne",
+    "region": null,
+    "country": "Allemagne",
+    "institution_type": "chapitre cathédral",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "bulles papales"
+  },
+  "remarks": "Bulles du pape Innocent IV"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "752",
+    "publication_type": "book",
+    "title": "Le consulat et l'administration municipale de Mende",
+    "auteurs": ["Ch. Porée"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1908",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Mende",
+    "region": "Lozère",
+    "country": "France",
+    "institution_type": "Municipal",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "History"
+  },
+  "remarks": null
+}

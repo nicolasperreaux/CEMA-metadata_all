@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "857",
+    "publication_type": "article",
+    "title": "Chartes en français de 1226 et de 1227",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1838",
+    "volume": null,
+    "tome": null,
+    "pages": "510-511",
+    "series": null,
+    "journal_title": "Messager des Sciences historiques, des Arts et de la Bibliographie de la Belgique",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1226-1227",
+    "document_type": "charters"
+  },
+  "remarks": null
+}

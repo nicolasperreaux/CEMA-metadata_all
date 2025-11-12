@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "692",
+    "publication_type": "book",
+    "title": "Cartulary of Missenden Abbey",
+    "auteurs": ["J. G. Jenkins"],
+    "place_of_publication": "London",
+    "publisher": "Buckinghamshire Record Society, H.M.S.O., Royal Commission on Historical Manuscripts",
+    "publication_dates": "1962",
+    "volume": "V.12",
+    "tome": null,
+    "pages": null,
+    "series": "Buckinghamshire Record Society",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Missenden Abbey",
+    "mentioned_place": "Missenden",
+    "region": null,
+    "country": "Angleterre",
+    "institution_type": "abbaye",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

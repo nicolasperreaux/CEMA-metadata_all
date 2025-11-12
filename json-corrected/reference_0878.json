@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "878",
+    "publication_type": "article",
+    "title": "L'abbaye du Lieu-Dieu au Moyen Âge (II) - Une maison florissante (vers 1200 - vers 1280). Le soutien de la duchesse Alix de Vergy",
+    "auteurs": ["CHAUVIN Benoît"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2010",
+    "volume": "28",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Recueil des travaux. Centre Beaunois d'Études Historiques",
+    "journal_volume": "28",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye du Lieu-Dieu",
+    "mentioned_place": "Lieu-Dieu",
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": "1200-1280",
+    "document_type": null
+  },
+  "remarks": null
+}

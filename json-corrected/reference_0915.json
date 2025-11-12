@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "915",
+    "publication_type": "book",
+    "title": "Le più antiche carte del Capitolo della Cattedrale di Benevento: (668 – 1200)",
+    "auteurs": ["CIARALLI Antonio", "DE DONATO Vittorio", "MATERA Vincenzo"],
+    "place_of_publication": "Roma",
+    "publisher": null,
+    "publication_dates": "2002",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cathédrale de Bénévent",
+    "mentioned_place": "Bénévent",
+    "region": "Campanie",
+    "country": "Italie",
+    "institution_type": "cathédrale",
+    "religious_order": null,
+    "temporal_coverage": "668-1200",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

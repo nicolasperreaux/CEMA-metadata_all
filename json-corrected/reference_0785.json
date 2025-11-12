@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "785",
+    "publication_type": "book",
+    "title": "Charters and Documents Relating to the City of Glasgow, 1175-1649, Part 2",
+    "auteurs": ["J. D. Marwick"],
+    "place_of_publication": "Edinbugh",
+    "publisher": "Scottish Burgh Records Society",
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Glasgow",
+    "region": "Scotland",
+    "country": "Scotland",
+    "institution_type": "City",
+    "religious_order": null,
+    "temporal_coverage": "1175-1649",
+    "document_type": "Charters"
+  },
+  "remarks": null
+}

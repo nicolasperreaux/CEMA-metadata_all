@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "672",
+    "publication_type": "book",
+    "title": "Cartularium abbathiae de Whiteby. Ordinis S. Benedicti fundatae anno MLXXVIII",
+    "auteurs": ["J. C. Atkinson"],
+    "place_of_publication": "Durham",
+    "publisher": "Surtees Society, Andrews & Co",
+    "publication_dates": "1879",
+    "volume": "V.69",
+    "tome": null,
+    "pages": null,
+    "series": "Surtees Society",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Whitby",
+    "mentioned_place": "Whitby",
+    "region": null,
+    "country": "Angleterre",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": "fondée en 1078",
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

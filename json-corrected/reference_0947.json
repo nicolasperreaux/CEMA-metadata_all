@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "947",
+    "publication_type": "article",
+    "title": "Deux chartes du XIIIe siècle relatives aux rapports du Barrois avec la Lorraine",
+    "auteurs": ["COMTE F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1900",
+    "volume": null,
+    "tome": null,
+    "pages": "p.351-358",
+    "series": null,
+    "journal_title": "Mémoires de la Société des Lettres, Sciences et Arts de Bar-le-Duc",
+    "journal_volume": "9",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Barrois, Lorraine",
+    "region": "Lorraine",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

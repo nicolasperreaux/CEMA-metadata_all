@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "624",
+    "publication_type": "article",
+    "title": "Les origines de la collégiale Saint-Donatien à Bruges. Deux chartes inédites du XIe siècle",
+    "auteurs": ["C. CALLEWAERT"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1906",
+    "volume": "56",
+    "tome": null,
+    "pages": "395-408",
+    "series": null,
+    "journal_title": "Annales de la Société d'Emulation de Bruges. Revue trimestrielle pour l'Etude de l'Histoire et des Antiquités de la Flandre",
+    "journal_volume": "56",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "collégiale Saint-Donatien",
+    "mentioned_place": "Bruges",
+    "region": "Flandre",
+    "country": "Belgique",
+    "institution_type": "collégiale",
+    "religious_order": null,
+    "temporal_coverage": "XIe siècle",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

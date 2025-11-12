@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "955",
+    "publication_type": "book",
+    "title": "Cartularium Affligemense. Varia diplomata (1105-1242)",
+    "auteurs": ["COPPENS C."],
+    "place_of_publication": "Hekelgem",
+    "publisher": null,
+    "publication_dates": "1969",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Fontes Affligemenses, 8",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye d'Affligem",
+    "mentioned_place": "Affligem",
+    "region": "Brabant",
+    "country": "Belgique",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": "1105-1242",
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

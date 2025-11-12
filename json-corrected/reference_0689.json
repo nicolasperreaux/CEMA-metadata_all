@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "689",
+    "publication_type": "book",
+    "title": "Cartulary of Launceston Priory. Lambeth Palace MS 719. A Calendar",
+    "auteurs": ["P. L. Hull"],
+    "place_of_publication": "Torquay",
+    "publisher": "Devon and Cornwall Record Society, Devonshire Press",
+    "publication_dates": "1987",
+    "volume": "New Series, V.30",
+    "tome": null,
+    "pages": null,
+    "series": "Devon and Cornwall Record Society",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Launceston Priory",
+    "mentioned_place": "Launceston",
+    "region": null,
+    "country": "Angleterre",
+    "institution_type": "prieuré",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

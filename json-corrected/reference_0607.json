@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "607",
+    "publication_type": "book",
+    "title": "Chartes du prieuré du Ségur (Tarn) du XIe au XIIIe siècle",
+    "auteurs": ["Edmond Cabié"],
+    "place_of_publication": "Albi",
+    "publisher": null,
+    "publication_dates": "1889",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "prieuré du Ségur",
+    "mentioned_place": "Ségur",
+    "region": "Tarn",
+    "country": "France",
+    "institution_type": "prieuré",
+    "religious_order": null,
+    "temporal_coverage": "XIe-XIIIe siècle",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

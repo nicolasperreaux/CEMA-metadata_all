@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "635",
+    "publication_type": "book",
+    "title": "Oorkondenboek van Noord-Brabant tot 1312, I. De Meierij van 's-Hertogenbosch (met de heerlijkheid Gemert), 1 (690-1294)",
+    "auteurs": ["H.P.H. CAMPS"],
+    "place_of_publication": "'S-Gravenhage",
+    "publisher": null,
+    "publication_dates": "1979",
+    "volume": "1",
+    "tome": null,
+    "pages": null,
+    "series": "Rijks geschiedkundige Publicatiën",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "'s-Hertogenbosch, Gemert",
+    "region": "Noord-Brabant",
+    "country": "Pays-Bas",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "690-1294",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

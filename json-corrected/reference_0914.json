@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "914",
+    "publication_type": "book",
+    "title": "Chronicon Hermanni Contracti ex inedito hucusque codice Augiensi, unacum eius vita et continuatione a Bertholdo eius discipulo scripta",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": "Bd. 1",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Reichenau",
+    "mentioned_place": "Reichenau, Petershausen",
+    "region": null,
+    "country": "Allemagne",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "chronique"
+  },
+  "remarks": "Praemittuntur varia anecdota, subiicitur Chronicon Petershusanum ineditum, ex ms. codd. coll. notis et observationibus"
+}

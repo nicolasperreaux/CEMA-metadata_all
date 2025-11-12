@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "941",
+    "publication_type": "book",
+    "title": "Col·lecció diplomàtica de Sant Pere de Casserres",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": "Volum I / II",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Sant Pere de Casserres",
+    "mentioned_place": "Casserres",
+    "region": "Catalogne",
+    "country": "Espagne",
+    "institution_type": "monastère",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "collection diplomatique"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "661",
+    "publication_type": "book",
+    "title": "Cartae et alia munimenta quae ad dominium de Glamorgancia pertinent",
+    "auteurs": ["Godfrey L. Clark", "George Thomas Clark", "W. Lewis"],
+    "place_of_publication": "Cardiff",
+    "publisher": null,
+    "publication_dates": "1910",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Glamorgan",
+    "region": null,
+    "country": "Pays de Galles",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "chartes"
+  },
+  "remarks": "Seigneurie de Glamorgan"
+}

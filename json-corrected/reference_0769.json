@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "769",
+    "publication_type": "book",
+    "title": "Le Registre de Benoît XI (1303-1304)",
+    "auteurs": ["Charles Grandjean"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1883-1905",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Bibliothèque des Écoles Françaises d'Athènes et de Rome",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Papacy",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": "Papal",
+    "religious_order": null,
+    "temporal_coverage": "1303-1304",
+    "document_type": "Papal register"
+  },
+  "remarks": "Register of Pope Benedict XI"
+}

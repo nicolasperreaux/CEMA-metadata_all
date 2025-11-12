@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "913",
+    "publication_type": "book",
+    "title": "Annales Heremi deiparae matris monasterii in Helvetia ordinis",
+    "auteurs": ["Christoph Hartmann"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Einsiedeln",
+    "mentioned_place": "Einsiedeln",
+    "region": null,
+    "country": "Suisse",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "annales"
+  },
+  "remarks": "Référence incomplète"
+}

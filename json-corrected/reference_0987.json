@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "987",
+    "publication_type": "book",
+    "title": "Regesta regum anglo-normanorum 1066-1154, III (Regesta regis Stephani ac Mathildis imperatricis ac Gaufridi et Henrici Ducum Normannorum 1135-1154)",
+    "auteurs": ["CRONNE H.A.", "DAVIS R.H.C."],
+    "place_of_publication": "Oxford",
+    "publisher": null,
+    "publication_dates": "1968",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Oxford Books",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Angleterre, Normandie",
+    "region": "Normandie",
+    "country": "Angleterre",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1135-1154",
+    "document_type": "regestes"
+  },
+  "remarks": null
+}

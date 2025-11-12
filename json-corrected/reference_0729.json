@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "729",
+    "publication_type": "article",
+    "title": "Lettre de Frédéric, archevêque de Cologne à Albéron I, évêque de Liège, concernant l'établissement des Prémontrés (1125)",
+    "auteurs": ["A. Cauchie"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1909",
+    "volume": "35",
+    "tome": null,
+    "pages": "285-288",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Liège",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "Diocese",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": "1125",
+    "document_type": "Letter"
+  },
+  "remarks": null
+}

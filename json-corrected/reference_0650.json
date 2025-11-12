@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "650",
+    "publication_type": "article",
+    "title": "Urkunden des XIII Jahrhunderts",
+    "auteurs": ["H. CARDAUNS"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1881",
+    "volume": "3",
+    "tome": null,
+    "pages": "219-239",
+    "series": null,
+    "journal_title": "Zeitschrift des Aachener Geschichtsvereins",
+    "journal_volume": "3",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Aachen",
+    "region": null,
+    "country": "Allemagne",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": "chartes"
+  },
+  "remarks": null
+}

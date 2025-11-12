@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "933",
+    "publication_type": "reference",
+    "title": "Codex diplomaticus Salemitanus",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Salem",
+    "mentioned_place": "Salem",
+    "region": "Bade-Wurtemberg",
+    "country": "Allemagne",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "codex diplomatique"
+  },
+  "remarks": "Référence incomplète"
+}

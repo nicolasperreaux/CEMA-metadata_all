@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1000",
+    "publication_type": "reference",
+    "title": "D.P. Blok (éd.), De oudste particuliere oorkonden van het klooster Werden",
+    "auteurs": ["D.P. Blok"],
+    "place_of_publication": "Assen",
+    "publisher": "Van Gorcum",
+    "publication_dates": "1960",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Werden",
+    "mentioned_place": "Werden",
+    "region": "Rhénanie",
+    "country": "Allemagne",
+    "institution_type": "abbaye",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "chartes particulières"
+  },
+  "remarks": "Même ouvrage que référence 999"
+}

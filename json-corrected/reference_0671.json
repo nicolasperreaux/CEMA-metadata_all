@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "671",
+    "publication_type": "book",
+    "title": "Cartularium Abbathiae de Rievalle",
+    "auteurs": ["J. C. Atkinson"],
+    "place_of_publication": "Durham",
+    "publisher": "Surtees Society, Andrews & Co",
+    "publication_dates": "1889",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Surtees Society",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbathiae de Rievalle",
+    "mentioned_place": "Rievaulx",
+    "region": null,
+    "country": "Angleterre",
+    "institution_type": "abbaye",
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

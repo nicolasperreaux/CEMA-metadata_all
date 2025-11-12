@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "659",
+    "publication_type": "book",
+    "title": "Histoire et cartulaire des templiers de Provins",
+    "auteurs": ["Victor CARRIERE"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1919",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "templiers de Provins",
+    "mentioned_place": "Provins",
+    "region": null,
+    "country": "France",
+    "institution_type": "commanderie",
+    "religious_order": "Templiers",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

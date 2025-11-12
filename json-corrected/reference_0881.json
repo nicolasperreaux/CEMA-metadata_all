@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "881",
+    "publication_type": "article",
+    "title": "Les débuts de l'abbaye d'Ounans (…milieu XIIe s. …)",
+    "auteurs": ["CHAUVIN Benoît", "OLIVIER Laurent"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2004",
+    "volume": null,
+    "tome": null,
+    "pages": "15-32",
+    "series": null,
+    "journal_title": "Travaux ... de la Société d'émulation du Jura",
+    "journal_volume": "2004",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye d'Ounans",
+    "mentioned_place": "Ounans",
+    "region": "Jura",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": "12th century",
+    "document_type": null
+  },
+  "remarks": null
+}

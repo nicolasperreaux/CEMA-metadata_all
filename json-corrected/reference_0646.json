@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "646",
+    "publication_type": "article",
+    "title": "Les premiers documents liégeois écrits en français",
+    "auteurs": ["U. CAPITAINE"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1859",
+    "volume": "2",
+    "tome": null,
+    "pages": "43-47",
+    "series": null,
+    "journal_title": "Bulletin de la Société liégeoise de Littérature wallonne",
+    "journal_volume": "2",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Liège",
+    "region": null,
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "documents en français"
+  },
+  "remarks": null
+}

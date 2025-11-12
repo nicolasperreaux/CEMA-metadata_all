@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "768",
+    "publication_type": "book",
+    "title": "Cartulaire de l'Abbaye de Notre-Dame de la Trappe",
+    "auteurs": ["Hyacinthe (Comte de) Charencey"],
+    "place_of_publication": "Alençon",
+    "publisher": "Renaut de Broise (Société historique et archéologique de l'Orne)",
+    "publication_dates": "1889",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Notre-Dame de la Trappe",
+    "mentioned_place": "La Trappe",
+    "region": "Normandy",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": "Trappist",
+    "temporal_coverage": null,
+    "document_type": "Cartulary"
+  },
+  "remarks": "Published from manuscript at Bibliothèque Nationale"
+}

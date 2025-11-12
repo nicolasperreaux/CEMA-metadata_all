@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "968",
+    "publication_type": "article",
+    "title": "Sterrebeek. Histoire du village. - Ses châteaux",
+    "auteurs": ["COSYN A."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1926",
+    "volume": null,
+    "tome": null,
+    "pages": "p.225-330",
+    "series": null,
+    "journal_title": "Le Folklore Brabançon",
+    "journal_volume": "29",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Sterrebeek",
+    "region": "Brabant",
+    "country": "Belgique",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "histoire locale"
+  },
+  "remarks": null
+}

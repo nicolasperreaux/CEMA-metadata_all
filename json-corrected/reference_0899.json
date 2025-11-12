@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "899",
+    "publication_type": "book",
+    "title": "Chichester 1215-1253",
+    "auteurs": ["Philippa M. Hoskin"],
+    "place_of_publication": "Oxford",
+    "publisher": "British Academy, Oxford University Press",
+    "publication_dates": "2001",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "English Episcopal Acta Volume 22-23",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Chichester",
+    "mentioned_place": "Chichester",
+    "region": null,
+    "country": "England",
+    "institution_type": "bishopric",
+    "religious_order": null,
+    "temporal_coverage": "1215-1253",
+    "document_type": "episcopal acta"
+  },
+  "remarks": null
+}

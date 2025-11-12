@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "733",
+    "publication_type": "book",
+    "title": "Cartulaire de Berdoues",
+    "auteurs": ["Jean-Marie Cazauran"],
+    "place_of_publication": "La Haye",
+    "publisher": null,
+    "publication_dates": "1905",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Berdoues Abbey",
+    "mentioned_place": "Berdoues",
+    "region": "Gascony",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "Cartulary"
+  },
+  "remarks": null
+}

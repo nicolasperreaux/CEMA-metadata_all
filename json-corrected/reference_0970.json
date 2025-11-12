@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "970",
+    "publication_type": "book",
+    "title": "Cartulaire de Saint-Spire de Corbeil au diocèse de Paris, publié pour la première fois avec une introduction",
+    "auteurs": ["COÜARD Émile"],
+    "place_of_publication": "Rambouillet et Paris",
+    "publisher": "E. Coüard-Luys, Rambouillet et A. Douchin, Paris",
+    "publication_dates": "1882",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Saint-Spire de Corbeil",
+    "mentioned_place": "Corbeil",
+    "region": "Île-de-France",
+    "country": "France",
+    "institution_type": "prieuré",
+    "religious_order": "Bénédictins",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": null
+}

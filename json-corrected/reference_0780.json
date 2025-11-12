@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "780",
+    "publication_type": "article",
+    "title": "La chartreuse de Bellary (1209-1793)",
+    "auteurs": ["Abbé L. Charrault"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1908",
+    "volume": "22",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin de la Société nivernaise des lettres, sciences et arts",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Chartreuse de Bellary",
+    "mentioned_place": "Bellary",
+    "region": "Nivernais",
+    "country": "France",
+    "institution_type": "Charterhouse",
+    "religious_order": "Carthusian",
+    "temporal_coverage": "1209-1793",
+    "document_type": "History"
+  },
+  "remarks": null
+}

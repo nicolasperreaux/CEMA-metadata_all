@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "843",
+    "publication_type": "book",
+    "title": "Charters of the Abbey of Coupar Angus. Charters I to CXVIII 1166-1376, Volume 1",
+    "auteurs": ["D. E. Easson"],
+    "place_of_publication": "Edinburgh",
+    "publisher": "Scottish History Society, T. and A. Constable",
+    "publication_dates": "1947",
+    "volume": "1",
+    "tome": null,
+    "pages": null,
+    "series": "Scottish History Society, Third Series V.40",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbey of Coupar Angus",
+    "mentioned_place": "Coupar Angus",
+    "region": null,
+    "country": "Scotland",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": "1166-1376",
+    "document_type": "charters"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "860",
+    "publication_type": "book",
+    "title": "Chartreuse Notre-Dame d'Aillon",
+    "auteurs": [],
+    "place_of_publication": "Chambéry",
+    "publisher": null,
+    "publication_dates": "1890",
+    "volume": null,
+    "tome": "2",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": "Les Bauges, histoire et documents. Tome 2 : Seigneurs ecclésiastiques",
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Chartreuse Notre-Dame d'Aillon",
+    "mentioned_place": "Aillon",
+    "region": "Les Bauges",
+    "country": "France",
+    "institution_type": "charterhouse",
+    "religious_order": "Carthusian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

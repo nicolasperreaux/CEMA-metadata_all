@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "898",
+    "publication_type": "book",
+    "title": "Select Documents of the English Lands of the Abbey of Bec",
+    "auteurs": ["Chibnall Marjorie"],
+    "place_of_publication": "Londres",
+    "publisher": "Offices of the Royal Historical Society",
+    "publication_dates": "1951",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Camden Society ; third series, 73",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbey of Bec",
+    "mentioned_place": "England",
+    "region": null,
+    "country": "England",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "documents"
+  },
+  "remarks": "English lands of the Abbey of Bec (Normandy)"
+}

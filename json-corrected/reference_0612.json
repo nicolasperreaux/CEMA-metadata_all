@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "612",
+    "publication_type": "book",
+    "title": "Colección diplomática medieval do arquivo da Catedral de Mondoñedo: transcripción íntegra dos documentos",
+    "auteurs": ["Enrique Cal Pardo"],
+    "place_of_publication": "Santiago de Compostela",
+    "publisher": "Consello da Cultura Galega-Ponencia de Patrimonio Histórico",
+    "publication_dates": "1999",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Catedral de Mondoñedo",
+    "mentioned_place": "Mondoñedo",
+    "region": "Galicia",
+    "country": "Espagne",
+    "institution_type": "cathédrale",
+    "religious_order": null,
+    "temporal_coverage": "médiéval",
+    "document_type": "documents diplomatiques"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "717",
+    "publication_type": "book",
+    "title": "Cartulaire d'Aniane",
+    "auteurs": ["Léon Cassan", "Edmond Meynial"],
+    "place_of_publication": "Montpellier",
+    "publisher": "J. Martel",
+    "publication_dates": "1900-1910",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Aniane Abbey",
+    "mentioned_place": "Aniane",
+    "region": "Languedoc",
+    "country": "France",
+    "institution_type": "Abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "Cartulary"
+  },
+  "remarks": null
+}

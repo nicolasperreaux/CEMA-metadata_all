@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "839",
+    "publication_type": "book",
+    "title": "Charters of St. Paul's, London",
+    "auteurs": ["S. E. Kelly"],
+    "place_of_publication": "Oxford",
+    "publisher": "British Academy, Oxford University Press",
+    "publication_dates": "2004",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Anglo-Saxon Charters 10",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "St. Paul's",
+    "mentioned_place": "London",
+    "region": null,
+    "country": "England",
+    "institution_type": "cathedral",
+    "religious_order": null,
+    "temporal_coverage": "Anglo-Saxon",
+    "document_type": "charters"
+  },
+  "remarks": null
+}

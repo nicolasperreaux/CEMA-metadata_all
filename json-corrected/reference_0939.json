@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "939",
+    "publication_type": "mémoire",
+    "title": "Le cartulaire des Jacobins de Dijon",
+    "auteurs": ["COINCE Éric"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1970",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Jacobins de Dijon",
+    "mentioned_place": "Dijon",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "couvent",
+    "religious_order": "Dominicains",
+    "temporal_coverage": null,
+    "document_type": "cartulaire"
+  },
+  "remarks": "Maîtrise sous la direction de Michel Mollat, Faculté des Lettres de Paris, mai 1970"
+}
