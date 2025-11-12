@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "272",
+    "publication_type": "monograph",
+    "title": "Recherches historiques sur le tabellionage royal, principalement en Normandie et sur les divers modes de contracter à l'époque du Moyen-Age d'après de nombreuses pièces M. SS. etsigillographie normande en XXIV planches (183 sceaux), avec fac-similé d'une belle charte ducale du XIe sièclecommentée par Dom Tassin en 1758 en deux lettres inédites",
+    "auteurs": ["Barabé, Alexandre Théodore"],
+    "place_of_publication": "Rouen",
+    "publisher": "H. Boissel",
+    "publication_dates": "1863",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Normandie",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "Middle Ages",
+    "document_type": null
+  },
+  "remarks": "With 24 plates of Norman sigillography (183 seals)"
+}

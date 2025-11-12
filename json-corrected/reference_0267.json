@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "267",
+    "publication_type": "monograph",
+    "title": "Miscellaneorum liber I-VII, hoc est collectio veterum monumentorum quae hactenus latuerant in variis codicibus ac bibliotheciss",
+    "auteurs": ["Baluze, E."],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1678-1715",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "collection"
+  },
+  "remarks": "7 volumes"
+}

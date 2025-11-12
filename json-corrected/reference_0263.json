@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "263",
+    "publication_type": "article",
+    "title": "Les droits de l'abbaye de Florennes à Franquenies",
+    "auteurs": ["Baix, F."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1940",
+    "volume": null,
+    "tome": null,
+    "pages": "37-45",
+    "series": null,
+    "journal_title": "Namurcum",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Florennes",
+    "mentioned_place": "Franquenies",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

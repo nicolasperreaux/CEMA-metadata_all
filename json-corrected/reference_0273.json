@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "273",
+    "publication_type": "article",
+    "title": "Documents concernant Auvelais, extraits du cartulaire de l'abbaye de Floreffe",
+    "auteurs": ["Barbier, J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1871",
+    "volume": null,
+    "tome": null,
+    "pages": "370-377",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "8",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Floreffe",
+    "mentioned_place": "Auvelais",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

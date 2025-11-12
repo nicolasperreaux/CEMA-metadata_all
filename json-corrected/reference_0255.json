@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "255",
+    "publication_type": "article",
+    "title": "Due chartij Rannego Srednevekovija",
+    "auteurs": ["Bachtin, V.V."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1925",
+    "volume": null,
+    "tome": null,
+    "pages": "62-77",
+    "series": null,
+    "journal_title": "Analecta Medii Aevii",
+    "journal_volume": "1",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "Early Middle Ages",
+    "document_type": null
+  },
+  "remarks": "Russian language article"
+}
