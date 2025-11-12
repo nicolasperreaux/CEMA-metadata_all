@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1996",
+    "publication_type": "book",
+    "title": "GOETHALS A. Chronica monasterii sancti Andreae juxta brugas ordinis sancti benedicti ab Arpulpho Goethals, edidit Jacobus Weale (Recueil de Chroniques, Chartes et autres Documents concernant l'Histoire et les Antiquités de la Flandre-Occidentale. 1: Chroniques des Monastères de Flandre, 41), Brugis, 1868",
+    "auteurs": [
+      "GOETHALS A. Chronica monasterii sancti Andreae juxta brugas ordinis sancti benedicti ab Arpulpho"
+    ],
+    "place_of_publication": "Brugis",
+    "publisher": null,
+    "publication_dates": "1868",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": "monastery",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

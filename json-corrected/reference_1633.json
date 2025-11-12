@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1633",
+    "publication_type": "article",
+    "title": "Chartes de saint Geoffroi, évêque d'Amiens (1105-1112)",
+    "auteurs": ["J. Estienne"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1929",
+    "volume": "90",
+    "tome": null,
+    "pages": "37-50, 49-50",
+    "series": null,
+    "journal_title": "Bibliothèque de l'Ecole des Chartes",
+    "journal_volume": "90",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Bishopric of Amiens",
+    "mentioned_place": "Amiens",
+    "region": null,
+    "country": "France",
+    "institution_type": "bishopric",
+    "religious_order": null,
+    "temporal_coverage": "1105-1112",
+    "document_type": "charters"
+  },
+  "remarks": "Charters of Saint Geoffroi, Bishop of Amiens"
+}

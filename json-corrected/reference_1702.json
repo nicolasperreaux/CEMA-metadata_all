@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1702",
+    "publication_type": "article",
+    "title": "Actes intéressant la ville de Bruxelles (1154- 2 décembre 1302)",
+    "auteurs": ["F. Favresse"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1938",
+    "volume": "103",
+    "tome": null,
+    "pages": "355-512",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "103",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Bruxelles",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "municipal",
+    "religious_order": null,
+    "temporal_coverage": "1154-1302",
+    "document_type": "acts"
+  },
+  "remarks": null
+}

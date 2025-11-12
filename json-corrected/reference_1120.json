@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1120",
+    "publication_type": "book",
+    "title": null,
+    "auteurs": [
+      "DE MOREMBERT (Tribout)"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de du Gard au XIIe siècle",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

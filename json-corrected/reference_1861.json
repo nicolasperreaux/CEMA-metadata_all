@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1861",
+    "publication_type": "book",
+    "title": "GACHARD L.P. Collection de documents inédits concernant l'histoire de la Belgique, 3 vol, Bruxelles, 1833-1835, 1, p.104-106",
+    "auteurs": [
+      "GACHARD L.P. Collection de documents inédits concernant l'histoire de la"
+    ],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1833-1835",
+    "volume": "3 vol",
+    "tome": null,
+    "pages": "104-106",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

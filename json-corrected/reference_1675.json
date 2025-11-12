@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1675",
+    "publication_type": "article",
+    "title": null,
+    "auteurs": ["F. Pasquier"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1894",
+    "volume": "vol. 4",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bulletin périodique de la Société ariégeoise des sciences, lettres et arts",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": "Ariège",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1766",
+    "publication_type": "book",
+    "title": "FLEURY (Gabriel), Cartulaire de l'abbaye cistercienne de Perseigne, précédé d'une notice historique, publié et annoté, Mamers, Typographie de G. Fleury et A. Dangin, 1880, n°CCCXLIX",
+    "auteurs": [
+      "FLEURY"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1880",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "cistercienne de",
+    "region": null,
+    "country": null,
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

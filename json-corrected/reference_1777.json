@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1777",
+    "publication_type": "book",
+    "title": "FOPPENS J.F. Historia episcopatus Antverpiensis, continens episcoporum seriem, et capitulorum, abbatiarum, et monasteriorum fundationes, nec non diplomata varia ad hujus dioecesis spectantia; exhibita pro schemate historiae ecclesiasticae omnium episcopatuum Belgii, Bruxellis, 1717",
+    "auteurs": [
+      "FOPPENS J.F. Historia episcopatus"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1717",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": "monastery",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

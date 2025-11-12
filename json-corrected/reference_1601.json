@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1601",
+    "publication_type": "book",
+    "title": "Ad Historiam abbatiae Cassinensis accessiones",
+    "auteurs": ["Erasmo Gattola"],
+    "place_of_publication": "Venise",
+    "publisher": "apud Sebastianum Coleti",
+    "publication_dates": "1734",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Mont-Cassin",
+    "mentioned_place": "Monte Cassino",
+    "region": null,
+    "country": "Italy",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

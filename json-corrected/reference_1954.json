@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1954",
+    "publication_type": "book",
+    "title": "GERMER-DURAND (Eugène), Cartulaire du chapitre de l'église cathédrale Notre-Dame de Nîmes [834-1156], publié et annoté, Nîmes, 1874",
+    "auteurs": [
+      "GERMER-DURAND"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1156",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Notre-Dame de",
+    "region": null,
+    "country": null,
+    "institution_type": "cathedral",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

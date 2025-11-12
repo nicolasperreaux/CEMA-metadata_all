@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1569",
+    "publication_type": "book",
+    "title": "Die Kapitulariensammlung Bischof Ghaerbalds von Lüttich",
+    "auteurs": ["W.A. Eckhardt"],
+    "place_of_publication": "Göttingen",
+    "publisher": null,
+    "publication_dates": "1955",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Germanenrechte. N. F. : Deutschrechtliches Archiv 5",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Bishopric of Lüttich",
+    "mentioned_place": "Lüttich",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "bishopric",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "capitulary collection"
+  },
+  "remarks": "Collection of Bishop Ghaerald of Liège"
+}

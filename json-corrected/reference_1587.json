@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1587",
+    "publication_type": "book",
+    "title": "Quellen zur Geschichte des Ordens von Hlg. Grab in Nordwesteuropa aus deutschen und niederländischen Archiven (1191-1603)",
+    "auteurs": ["K. Elm"],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1976",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Publications de la Commission royale d'Histoire, Series II in 8°",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Northwest Europe",
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Order of the Holy Sepulchre",
+    "temporal_coverage": "1191-1603",
+    "document_type": "sources"
+  },
+  "remarks": "Sources for the history of the Order of the Holy Sepulchre"
+}

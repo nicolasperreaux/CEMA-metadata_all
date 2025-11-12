@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1539",
+    "publication_type": "book",
+    "title": "Cinq coutumes du Tarn-et-Garonne : Larrazet, Angeville, Fajolles, Lauzerte et Valence d'Agen",
+    "auteurs": ["E. Rebouis"],
+    "place_of_publication": "Montauban",
+    "publisher": null,
+    "publication_dates": "1886",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Larrazet, Angeville, Fajolles, Lauzerte, Valence d'Agen",
+    "region": "Tarn-et-Garonne",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "customs"
+  },
+  "remarks": null
+}

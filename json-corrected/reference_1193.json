@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1193",
+    "publication_type": "article",
+    "title": "Chronique de l'abbaye de Boneffe",
+    "auteurs": [
+      "DEL MARMOL E."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1855-1856",
+    "volume": null,
+    "tome": null,
+    "pages": "93-135",
+    "series": null,
+    "journal_title": "Annales de la Société archéologique de Namur",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Boneffe",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

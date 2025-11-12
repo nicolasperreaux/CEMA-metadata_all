@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1047",
+    "publication_type": "book",
+    "title": "De BECDELIÈVRE",
+    "auteurs": [],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "2009",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de cistercienne de Fontfroide",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

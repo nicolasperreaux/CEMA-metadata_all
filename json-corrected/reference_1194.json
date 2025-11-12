@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1194",
+    "publication_type": "article",
+    "title": "L'abbaye de Brogne ou de Saint Gérard",
+    "auteurs": [
+      "DEL MARMOL E."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1857-1858",
+    "volume": null,
+    "tome": null,
+    "pages": "225-286",
+    "series": null,
+    "journal_title": "Annales de la Société archéologique de Namur",
+    "journal_volume": "5",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Brogne ou de Saint Gérard",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

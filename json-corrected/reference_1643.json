@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1643",
+    "publication_type": "book",
+    "title": "Cartulaire de l'ancienne cathédrale de Nice",
+    "auteurs": ["Eugène Caïs de Pierlas"],
+    "place_of_publication": "Turin",
+    "publisher": "J.-B. Paravia",
+    "publication_dates": "1888",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cathédrale de Nice",
+    "mentioned_place": "Nice",
+    "region": null,
+    "country": "France/Italy",
+    "institution_type": "cathedral",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

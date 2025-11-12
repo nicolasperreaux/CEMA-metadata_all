@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1703",
+    "publication_type": "article",
+    "title": "L' Antigraphum Petri et les lettres concernant Lambert le Bègue conservées dans le manuscrit de Glasgow",
+    "auteurs": ["A. Fayen"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1899",
+    "volume": "69",
+    "tome": null,
+    "pages": "255-356",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d' Histoire",
+    "journal_volume": "69",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "letters"
+  },
+  "remarks": "Letters concerning Lambert le Bègue"
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1814",
+    "publication_type": "book",
+    "title": "Freiburger Diözesanarchiv: Zeitschrift des Kirchengeschichtlichen Vereins für Geschichte, christliche Kunst, Altertumsund Literaturkunde des Erzbistums Freiburg 1 (1865) 27 (1899), N.F. 1 (1900) 41 (1941), 3. F. 1 (1949)",
+    "auteurs": [
+      "Freiburger"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1865",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

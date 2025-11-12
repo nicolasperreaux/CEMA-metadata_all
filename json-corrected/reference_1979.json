@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1979",
+    "publication_type": "book",
+    "title": "Giovanni Benedetto Mittarelli, Anselmo Costadoni, \"Annales Camaldulenses ordinis Sancti Benedicti\", VI, Venise : Apud Johannem Baptistam Pasquali, 1761, c. 744-748",
+    "auteurs": [
+      "Giovanni Benedetto"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1761",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

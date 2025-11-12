@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1508",
+    "publication_type": "article",
+    "title": "Coutumes d'Orbessan et d'Ornezan, 1320, 1322",
+    "auteurs": ["E. de Vacquié"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Mémoires de la Société archéologique du Midi de la France",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Orbessan, Ornezan",
+    "region": "Midi",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1320, 1322",
+    "document_type": "customs"
+  },
+  "remarks": null
+}

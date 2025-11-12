@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1554",
+    "publication_type": "book",
+    "title": "Early Staffordshire Charters",
+    "auteurs": ["C. Swynnerton"],
+    "place_of_publication": "Kendal",
+    "publisher": "Titus Wilson and Son",
+    "publication_dates": "1926",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Collections for a History of Staffordshire",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Staffordshire",
+    "region": null,
+    "country": "England",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charters"
+  },
+  "remarks": "The William Salt Archaeological Society"
+}

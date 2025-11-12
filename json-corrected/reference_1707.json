@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1707",
+    "publication_type": "book",
+    "title": "Feet of Fines for the County of Norfolk, 1198-1202. For the tenth year of the Reign of King Richard I and the first four years of the reign of King John",
+    "auteurs": ["B. Dodwell"],
+    "place_of_publication": "London",
+    "publisher": "Pipe Roll Society",
+    "publication_dates": "1952",
+    "volume": "V.27, V.65",
+    "tome": null,
+    "pages": null,
+    "series": "Pipe Roll Society, New Series",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Norfolk",
+    "region": null,
+    "country": "England",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1198-1202",
+    "document_type": "feet of fines"
+  },
+  "remarks": null
+}

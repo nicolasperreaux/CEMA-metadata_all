@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1728",
+    "publication_type": "article",
+    "title": "San Andrés de Orrea, monasterio benedictino",
+    "auteurs": ["José Ignacio Fernández de Viana y Vieites"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1977",
+    "volume": "15",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Yermo",
+    "journal_volume": "15",
+    "journal_issue": "nº 1-2",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de San Andrés de Orrea",
+    "mentioned_place": "Orrea",
+    "region": null,
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "article"
+  },
+  "remarks": null
+}

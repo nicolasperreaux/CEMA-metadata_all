@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1915",
+    "publication_type": "book",
+    "title": "GASPARD B., Histoire de Gigny... de sa noble et royale abbaye et de saint Taurin, son patron..., Lons-le-Saunier, 1843, Nouvelles pièces justificatives",
+    "auteurs": [
+      "GASPARD"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1843",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "et de",
+    "region": null,
+    "country": null,
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

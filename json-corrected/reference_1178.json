@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1178",
+    "publication_type": "article",
+    "title": "Castres : Notes historiques et chartes relatives aux possessions du chapitre de Sainte-Waudru de Mons",
+    "auteurs": [
+      "DECAMPS G."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1883",
+    "volume": null,
+    "tome": null,
+    "pages": "205-240",
+    "series": null,
+    "journal_title": "Annales du Cercle Archéologique d'Enghien",
+    "journal_volume": "2",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Chapitre/Église",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1207",
+    "publication_type": "book",
+    "title": "Cartulaire général de l'Ordre des Hospitaliers de Saint-Jean de Jérusalem",
+    "auteurs": [
+      "DELAVILLE LE ROULX J."
+    ],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1894-1906",
+    "volume": "4 vol",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Hôpital",
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Hospitaliers",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

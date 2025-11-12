@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1978",
+    "publication_type": "book",
+    "title": "Giovanni Battista Nitto De Rossi, Francesco Nitti Di Vito (éd.), Codice diplomatico Barese. II: Le pergamene del Duomo di Bari (1266-1309), Bari, V. Vecchi, 1899",
+    "auteurs": [
+      "Giovanni Battista Nitto De"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1266-1309",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

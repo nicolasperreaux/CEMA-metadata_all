@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1738",
+    "publication_type": "article",
+    "title": "Esquisse historique sur le culte et les reliques de Saint-Bertulphe de Renty en l'église d' Harelbeke",
+    "auteurs": ["J. Ferrant"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1898",
+    "volume": "48",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Annales de la Société d'Emulation pour l'Etude de l'Histoire et Antiquités de la Flandre",
+    "journal_volume": "48",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Église d'Harelbeke",
+    "mentioned_place": "Harelbeke, Renty",
+    "region": "Flanders",
+    "country": "Belgium",
+    "institution_type": "church",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "article"
+  },
+  "remarks": "Historical sketch on cult and relics of Saint Bertulphe"
+}

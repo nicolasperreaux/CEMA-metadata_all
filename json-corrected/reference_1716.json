@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1716",
+    "publication_type": "article",
+    "title": "Documentos Históricos. V",
+    "auteurs": ["Benito Fernández Alonso"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1898",
+    "volume": "I",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Boletín de la Comisión Provincial de Monumentos Históricos y Artísticos de Orense",
+    "journal_volume": "1",
+    "journal_issue": "nº 5",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Orense",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "historical documents"
+  },
+  "remarks": null
+}

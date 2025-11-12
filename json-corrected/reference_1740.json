@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1740",
+    "publication_type": "book",
+    "title": "Chronicon Belgicum ab anno CCLVIII usque ad annum usque MDC continuo perductum",
+    "auteurs": ["Ferreolus Locrius"],
+    "place_of_publication": "Atrebati",
+    "publisher": null,
+    "publication_dates": "1616",
+    "volume": "3 vol, 3",
+    "tome": null,
+    "pages": "128",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "258-1600",
+    "document_type": "chronicle"
+  },
+  "remarks": "3 volumes"
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1757",
+    "publication_type": "article",
+    "title": "FISEN B. Sancta Legia, romanae Ecclesiae filia, sive Historiarum ecclesiae Leodiensis partes duae, quarum prima ab ipso autore aucta fuit atque recognita, et secunda nunc primum in lucem prodit, 2 tomes en 1 vol, Leodii, 1696",
+    "auteurs": [
+      "FISEN B. Sancta"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1696",
+    "volume": "1 vol",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "lucem prodit",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

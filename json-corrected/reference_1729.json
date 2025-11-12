@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1729",
+    "publication_type": "article",
+    "title": "Documentos sobre derechos y posesiones de la iglesia compostelana en tierras portuguesas en los Tumbos «B» y «C» y en el «Tumbillo de Concordias» de la catedral de Santiago",
+    "auteurs": ["José Ignacio Fernández de Viana y Vieites", "María Teresa González Balasch"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1992",
+    "volume": "XVII",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Cuadernos de Estudios Medievales y Ciencias y Técnicas Historiográficas",
+    "journal_volume": "17",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Catedral de Santiago",
+    "mentioned_place": "Santiago de Compostela, Portugal",
+    "region": "Galicia",
+    "country": "Spain/Portugal",
+    "institution_type": "cathedral",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "documents"
+  },
+  "remarks": "Documents on rights and possessions in Portuguese lands"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1609",
+    "publication_type": "article",
+    "title": "Fünf Gedichte des Sedulius Scottus an den Markgrafen Eberhard von Friaul zum erstenmale",
+    "auteurs": ["Ernst Dümmler"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1860",
+    "volume": "1",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Jahrbuch für vaterländische Geschichte",
+    "journal_volume": "1",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Friaul",
+    "region": null,
+    "country": "Italy",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "Carolingian period",
+    "document_type": "poems"
+  },
+  "remarks": "Five poems by Sedulius Scottus"
+}

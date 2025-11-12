@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1698",
+    "publication_type": "article",
+    "title": "La donation Eckard. Châtelet à l'époque carolingienne",
+    "auteurs": ["J. Fauconnier"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1966",
+    "volume": "6",
+    "tome": null,
+    "pages": "105-154, 130-136",
+    "series": null,
+    "journal_title": "Vieux Châtelet",
+    "journal_volume": "6",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Châtelet",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "Carolingian period",
+    "document_type": "article"
+  },
+  "remarks": null
+}

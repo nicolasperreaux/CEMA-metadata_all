@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1600",
+    "publication_type": "book",
+    "title": "Colección diplomática del monasterio y convento de Santo Domingo de Ribadavia",
+    "auteurs": ["María del Carmen Enríquez Paradela"],
+    "place_of_publication": "Ourense",
+    "publisher": "Museo Arqueolóxico Provincial",
+    "publication_dates": "1987",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio y convento de Santo Domingo de Ribadavia",
+    "mentioned_place": "Ribadavia",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery and convent",
+    "religious_order": "Dominican",
+    "temporal_coverage": null,
+    "document_type": "diplomatic collection"
+  },
+  "remarks": null
+}

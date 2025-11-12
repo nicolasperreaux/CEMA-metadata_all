@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1691",
+    "publication_type": "article",
+    "title": "Alexander III. und die Abtei Corbie. Ein Beitrag zum Gewohneitsrecht exemter Kirchen im 12. Jahrhundert",
+    "auteurs": ["L. Falkenstein"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1989",
+    "volume": "27",
+    "tome": null,
+    "pages": "85-196",
+    "series": null,
+    "journal_title": "Archivum Historiae pontificae",
+    "journal_volume": "27",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abtei Corbie",
+    "mentioned_place": "Corbie",
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": "12th century",
+    "document_type": "article"
+  },
+  "remarks": "Pope Alexander III and the Abbey of Corbie"
+}

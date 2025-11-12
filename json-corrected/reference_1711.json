@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1711",
+    "publication_type": "book",
+    "title": "Histoire de la ville de Paris",
+    "auteurs": ["M. Félibien"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1725",
+    "volume": "5 vol, 4, col. 2",
+    "tome": null,
+    "pages": "183",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Paris",
+    "region": null,
+    "country": "France",
+    "institution_type": "municipal",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": "5 volumes"
+}

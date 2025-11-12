@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1713",
+    "publication_type": "article",
+    "title": "Les premiers contrats agraires du Mont-Cassin. Les livelli de l'abbé Aligerne dans les Abruzzes (948-985)",
+    "auteurs": ["Laurent Feller"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2004",
+    "volume": "21:1",
+    "tome": null,
+    "pages": "133-185",
+    "series": null,
+    "journal_title": "Histoire & Sociétés Rurales",
+    "journal_volume": "21",
+    "journal_issue": "1",
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Mont-Cassin",
+    "mentioned_place": "Monte Cassino, Abruzzes",
+    "region": "Abruzzi",
+    "country": "Italy",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "948-985",
+    "document_type": "agrarian contracts"
+  },
+  "remarks": "First agrarian contracts of Monte Cassino"
+}

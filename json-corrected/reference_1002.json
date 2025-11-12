@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1002",
+    "publication_type": "book",
+    "title": "Etude sur l'état intérieur des abbayes cisterciennes et principalement de Clairvaux aux XIIe et XIIIe siècle",
+    "auteurs": [
+      "D'ARBOIS DE JUBAINVILLE H."
+    ],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1858",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Cisterciens",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

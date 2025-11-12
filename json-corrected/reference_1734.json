@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1734",
+    "publication_type": "article",
+    "title": "Donación de Fernando II de León al monasterio de Armenteira",
+    "auteurs": ["Enrique Fernández-Villamil y Alegre"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1957",
+    "volume": "XI",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "El Museo de Pontevedra",
+    "journal_volume": "11",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de Armenteira",
+    "mentioned_place": "Armenteira",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": null,
+    "temporal_coverage": "12th century",
+    "document_type": "donation"
+  },
+  "remarks": "Donation by Ferdinand II of León"
+}

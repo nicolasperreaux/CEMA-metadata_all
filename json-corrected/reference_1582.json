@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1582",
+    "publication_type": "book",
+    "title": "Layettes du Trésor des chartes",
+    "auteurs": ["Élie Berger"],
+    "place_of_publication": "Paris",
+    "publisher": "Henri Plon",
+    "publication_dates": "1902",
+    "volume": "IV",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Trésor des chartes",
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "royal archives",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charters"
+  },
+  "remarks": null
+}

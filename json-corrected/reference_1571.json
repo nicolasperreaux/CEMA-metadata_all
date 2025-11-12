@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1571",
+    "publication_type": "book",
+    "title": "Veterum aliquot scriptorum qui in Galliae bibliothecis, maxime Benedictinorum latuerant",
+    "auteurs": ["Luc d'Achery"],
+    "place_of_publication": "Paris",
+    "publisher": "Savreux",
+    "publication_dates": "1655-1677",
+    "volume": "13 vol.",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": null,
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "collection of texts"
+  },
+  "remarks": "Ancient texts from Benedictine libraries"
+}

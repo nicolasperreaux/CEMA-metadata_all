@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1678",
+    "publication_type": "article",
+    "title": "La coutume d'Aspet",
+    "auteurs": ["F. Périssé"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1900",
+    "volume": "XV",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Revue du Comminges",
+    "journal_volume": "15",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Aspet",
+    "region": "Comminges",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "customs"
+  },
+  "remarks": null
+}

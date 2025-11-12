@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1337",
+    "publication_type": "monograph",
+    "title": "A. Picard et fils",
+    "auteurs": [
+      "DION Adolphe"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1204-1280",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "abbaye de Porrois",
+    "mentioned_place": "Porrois",
+    "region": null,
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

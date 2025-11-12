@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1567",
+    "publication_type": "book",
+    "title": "Ecclesiastical Documents. I. A Brief History of the Bishoprick of Somerset from Its Foundation to the Year 1174. II. Charters from the Library of Dr. Cox Macro",
+    "auteurs": ["Joseph Hunter"],
+    "place_of_publication": "London",
+    "publisher": "J.B. Nichols and Son",
+    "publication_dates": "1840",
+    "volume": "V.8",
+    "tome": null,
+    "pages": null,
+    "series": "Camden Society",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Bishoprick of Somerset",
+    "mentioned_place": "Somerset",
+    "region": null,
+    "country": "England",
+    "institution_type": "bishopric",
+    "religious_order": null,
+    "temporal_coverage": "to 1174",
+    "document_type": "ecclesiastical documents and charters"
+  },
+  "remarks": null
+}

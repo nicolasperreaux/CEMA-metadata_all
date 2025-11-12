@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1743",
+    "publication_type": "book",
+    "title": "Feudal Documents from the Abbey of Bury St. Edmunds",
+    "auteurs": ["D. C. Douglas"],
+    "place_of_publication": "London",
+    "publisher": "British Academy, Oxford University Press",
+    "publication_dates": "1932",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Records of the Social and Economic History of England and Wales",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbey of Bury St. Edmunds",
+    "mentioned_place": "Bury St. Edmunds",
+    "region": null,
+    "country": "England",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "feudal documents"
+  },
+  "remarks": null
+}

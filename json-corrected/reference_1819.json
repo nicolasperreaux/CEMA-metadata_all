@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1819",
+    "publication_type": "book",
+    "title": "Fréville de Lorme Charles Ernest de, Mémoire sur le commerce maritime de Rouen, depuis les temps les plusreculés jusqu'à la fin du XVIe siècle, Rouen/Paris, Le Brument/A. Durand, 1857, 2 vol., t. 2",
+    "auteurs": [
+      "Fréville de Lorme Charles Ernest"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1857",
+    "volume": "2 vol",
+    "tome": "2",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "XVIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

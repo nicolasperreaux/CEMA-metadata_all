@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1161",
+    "publication_type": "article",
+    "title": "Les chartes de l'Ile-duc à Gempe",
+    "auteurs": [
+      "DE TROOSTEMBERGH M."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1905",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Analectes de l'Ordre de Prémontré",
+    "journal_volume": "1",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Prémontrés",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

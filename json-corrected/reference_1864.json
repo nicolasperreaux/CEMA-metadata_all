@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1864",
+    "publication_type": "article",
+    "title": "GAIER C. Documents relatifs aux domaines hesbignons de l'abbaye de Saint-Denis en France, dans: Bulletin de la Commission royale d'Histoire, 127 (1961), p.163-202",
+    "auteurs": [
+      "GAIER C. Documents relatifs aux domaines hesbignons de l'abbaye de Saint-Denis en"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1961",
+    "volume": null,
+    "tome": null,
+    "pages": "163-202",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Saint-Denis en",
+    "region": null,
+    "country": null,
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1685",
+    "publication_type": "book",
+    "title": "Facsimiles of Early Cheshire Charters",
+    "auteurs": ["G. Barraclough"],
+    "place_of_publication": "Oxford",
+    "publisher": "Blackwell",
+    "publication_dates": "1957",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Record Society of Lancashire and Cheshire",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Cheshire",
+    "region": null,
+    "country": "England",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "facsimiles"
+  },
+  "remarks": null
+}

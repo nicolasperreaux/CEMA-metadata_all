@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1550",
+    "publication_type": "book",
+    "title": "Early Charters of the Cathedral Church of St. Paul, London",
+    "auteurs": ["Marion Gibbs"],
+    "place_of_publication": "London",
+    "publisher": "Offices of the Royal Historical Society",
+    "publication_dates": "1939",
+    "volume": "V.58",
+    "tome": null,
+    "pages": null,
+    "series": "Camden Third Series",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Cathedral Church of St. Paul",
+    "mentioned_place": "London",
+    "region": null,
+    "country": "England",
+    "institution_type": "cathedral",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "charters"
+  },
+  "remarks": null
+}

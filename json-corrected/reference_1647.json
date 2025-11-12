@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1647",
+    "publication_type": "article",
+    "title": "Kamerijk en Premontreit in 1132",
+    "auteurs": ["J. Evers"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1926",
+    "volume": "2",
+    "tome": null,
+    "pages": "88-90, 89-90",
+    "series": null,
+    "journal_title": "Analecta Praemonstratensia",
+    "journal_volume": "2",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Cambrai",
+    "region": null,
+    "country": "France/Belgium",
+    "institution_type": null,
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": "1132",
+    "document_type": "article"
+  },
+  "remarks": null
+}

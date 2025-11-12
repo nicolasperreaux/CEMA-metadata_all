@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1739",
+    "publication_type": "article",
+    "title": "La sépulture de Lidéric, d'Ingelram et d'Audacer en l'église d'Harlebeke",
+    "auteurs": ["J. Ferrant"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1908",
+    "volume": "1",
+    "tome": null,
+    "pages": "73-89",
+    "series": null,
+    "journal_title": "Handelingen Geschied- en Oudheidkundige Kring te Kortrijk",
+    "journal_volume": "1",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Église d'Harlebeke",
+    "mentioned_place": "Harlebeke",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "church",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "article"
+  },
+  "remarks": "Burial of Lidéric, Ingelram and Audacer"
+}

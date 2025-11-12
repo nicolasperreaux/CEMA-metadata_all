@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1733",
+    "publication_type": "article",
+    "title": "El monasterio de Santa Cristina de Ribas de Sil",
+    "auteurs": ["Elisa Fernández Suárez"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1974",
+    "volume": "IV",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Boletín Auriense",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monasterio de Santa Cristina de Ribas de Sil",
+    "mentioned_place": "Ribas de Sil",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "monastery",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "article"
+  },
+  "remarks": null
+}

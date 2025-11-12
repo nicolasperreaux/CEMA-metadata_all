@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1876",
+    "publication_type": "book",
+    "title": "GALLAND A. Mémoires pour l'histoire de Navarre et de Flandre contenant le droit du roy au royaume de Navarre, le droit comme seigneur de Dunkerque, Bourbourg, Lille, Douai, etc. sur le comté de Flandre et le Pays de Waes, avec les preuves authentiques, Paris, 1648",
+    "auteurs": [
+      "GALLAND A. Mémoires pour l'histoire de Navarre et de Flandre contenant le droit du roy au royaume de"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1648",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

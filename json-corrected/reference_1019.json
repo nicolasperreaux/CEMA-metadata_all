@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1019",
+    "publication_type": "book",
+    "title": "Les templiers. Flandre-Hainaut-Brabant",
+    "auteurs": [
+      "DAILLIEZ L."
+    ],
+    "place_of_publication": "Nice",
+    "publisher": null,
+    "publication_dates": "1978",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Templiers",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

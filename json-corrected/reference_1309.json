@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1309",
+    "publication_type": "monograph",
+    "title": null,
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1864",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Publications éditées sous le patronage du Cercle archéologique de Mons, 2",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

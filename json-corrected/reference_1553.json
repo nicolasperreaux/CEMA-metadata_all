@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1553",
+    "publication_type": "book",
+    "title": "Early Scottish Charters Prior to A.D. 1153. Collected, with Notes and an Index",
+    "auteurs": ["Sir Archibald C. Lawrie"],
+    "place_of_publication": "Glasgow",
+    "publisher": "James MacLehose and Sons",
+    "publication_dates": "1905",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Scotland",
+    "region": null,
+    "country": "Scotland",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "to A.D. 1153",
+    "document_type": "charters"
+  },
+  "remarks": null
+}

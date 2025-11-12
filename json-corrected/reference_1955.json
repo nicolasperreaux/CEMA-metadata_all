@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1955",
+    "publication_type": "book",
+    "title": "GERZAGUET (Jean-Pierre), L'abbaye féminine de Denain des origines à la fin du XIIIe siècle. Histoire et chartes, Turnhout, 2008",
+    "auteurs": [
+      "GERZAGUET"
+    ],
+    "place_of_publication": "Turnhout",
+    "publisher": null,
+    "publication_dates": "2008",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "féminine de",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1064",
+    "publication_type": "article",
+    "title": "L'ordre du Temple dans l'ancien diocèse de Liège ou la Belgique orientale",
+    "auteurs": [
+      "DE CHESTRET DE HANEFFE J."
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": null,
+    "institution_type": null,
+    "religious_order": "Templiers",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

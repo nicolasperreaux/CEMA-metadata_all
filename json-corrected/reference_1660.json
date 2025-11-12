@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1660",
+    "publication_type": "book",
+    "title": "Recueil des actes des Comtes de Provence appartenant à la maison de Barcelone, Alphonse II et Raimond Bérenger V (1196-1245)",
+    "auteurs": ["F. Benoit"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1925",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Provence",
+    "region": "Provence",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1196-1245",
+    "document_type": "acts"
+  },
+  "remarks": "Acts of the Counts of Provence of the House of Barcelona"
+}

@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1782",
+    "publication_type": "book",
+    "title": "FOSSIER R. Cartulaire chronique du prieuré Saint-Georges d'Hesdin (Documents, Etudes et Répertoires publiés par l'Institut de Recherche et d'Histoire des Textes), Paris, 1988",
+    "auteurs": [
+      "FOSSIER R. Cartulaire chronique du prieuré Saint-Georges d'Hesdin"
+    ],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1988",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Saint-Georges",
+    "region": null,
+    "country": "France",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

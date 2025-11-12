@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1612",
+    "publication_type": "book",
+    "title": "Histoire du Limbourg, suivie de celle des comtés de Daelhem et de Fauquemont, des annales de l'abbaye de Rolduc",
+    "auteurs": ["M.S.P. Ernst"],
+    "place_of_publication": "Liège",
+    "publisher": null,
+    "publication_dates": "1838",
+    "volume": "II",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Rolduc",
+    "mentioned_place": "Limbourg, Daelhem, Fauquemont",
+    "region": "Limbourg",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

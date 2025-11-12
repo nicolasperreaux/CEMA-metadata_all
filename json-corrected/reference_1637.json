@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1637",
+    "publication_type": "book",
+    "title": "Vitae paparum Avenionensium. Nouvelle édition revue d'après les manuscrits et complétée de notes critiques",
+    "auteurs": ["Étienne Baluze", "Guillaume Mollat"],
+    "place_of_publication": "Paris",
+    "publisher": "Letouzey et Ané",
+    "publication_dates": "1914-1922",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Papal Curia",
+    "mentioned_place": "Avignon",
+    "region": null,
+    "country": "France",
+    "institution_type": "papal",
+    "religious_order": null,
+    "temporal_coverage": "Avignon papacy",
+    "document_type": "biographies"
+  },
+  "remarks": "Lives of the Avignon popes"
+}

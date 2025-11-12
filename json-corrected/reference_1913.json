@@ -1,0 +1,33 @@
+{
+  "publication": {
+    "reference_number": "1913",
+    "publication_type": "article",
+    "title": "GARRIGUES M. Le premier cartulaire de l'abbaye cistercienne de Pontigny (XIIe-XIIIe siècles) (Collection de Documents inédits sur l'Histoire de France, Série in 8°, 14), Paris, 1981",
+    "auteurs": [
+      "GARRIGUES M. Le premier cartulaire de l'abbaye cistercienne de Pontigny"
+    ],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1981",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "8°",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "cistercienne de",
+    "region": null,
+    "country": null,
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "XIIIe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

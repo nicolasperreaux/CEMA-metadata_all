@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1724",
+    "publication_type": "article",
+    "title": "Don Rodrigo Gómez y la sede Compostelana",
+    "auteurs": ["José Ignacio Fernández de Viana y Vieites"],
+    "place_of_publication": "Santiago de Compostela",
+    "publisher": "Instituto Cultural Galaico-Minhoto; Consellería de Educación e Cultura [da Xunta de Galicia]",
+    "publication_dates": "1985",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": "Actas del II Coloquio Galaico-Minhoto. Santiago de Compostela, 14-16 de Abril de 1984",
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Sede Compostelana",
+    "mentioned_place": "Santiago de Compostela",
+    "region": "Galicia",
+    "country": "Spain",
+    "institution_type": "ecclesiastical see",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "article"
+  },
+  "remarks": null
+}

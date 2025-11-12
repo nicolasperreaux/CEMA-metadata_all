@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1655",
+    "publication_type": "book",
+    "title": "Eye Priory Cartulary and Charters",
+    "auteurs": ["Vivien Brown"],
+    "place_of_publication": "Woodbridge, Suffolk",
+    "publisher": "Suffolk Records Society, Boydell Press",
+    "publication_dates": "1992",
+    "volume": "V.12",
+    "tome": null,
+    "pages": null,
+    "series": "Suffolk Charters",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Eye Priory",
+    "mentioned_place": "Eye",
+    "region": "Suffolk",
+    "country": "England",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary and charters"
+  },
+  "remarks": null
+}

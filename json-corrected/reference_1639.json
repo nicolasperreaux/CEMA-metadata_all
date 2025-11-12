@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "1639",
+    "publication_type": "book",
+    "title": "Histoire de l'abbaye de Silvacane en Provence, d'après les documents receuillis par le R.P. Bernard d'Hyères complétés et mis à jour",
+    "auteurs": ["Vicomte d'Étienne de Saint-Jean"],
+    "place_of_publication": "Aix",
+    "publisher": null,
+    "publication_dates": "1891",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Silvacane",
+    "mentioned_place": "Silvacane",
+    "region": "Provence",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}
