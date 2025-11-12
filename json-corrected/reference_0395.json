@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "395",
+    "publication_type": "book",
+    "title": "Cartulaire de Saint-Michel de l'Abbayette, prieuré de l'abbaye du Mont-Saint-Michel (997-1421)",
+    "auteurs": ["Bertrand de Broussillon, Arthur"],
+    "place_of_publication": "Paris",
+    "publisher": "Picard",
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Prieuré de Saint-Michel de l'Abbayette",
+    "mentioned_place": "Mont-Saint-Michel",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "priory",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "997-1421",
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

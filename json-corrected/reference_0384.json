@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "384",
+    "publication_type": "book",
+    "title": "Recueil des chartes de l'abbaye de Cluny",
+    "auteurs": ["Bernard, A.", "Bruel, A."],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1876-1903",
+    "volume": "6",
+    "tome": null,
+    "pages": null,
+    "series": "Collection de Documents inédits sur l'Histoire de France, Série 2, 14/1-6",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Cluny",
+    "mentioned_place": "Cluny",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": null
+}

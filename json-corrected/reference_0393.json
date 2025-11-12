@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "393",
+    "publication_type": "book",
+    "title": "La chronique et les chartes de l'abbaye de Maroeuil de l'ordre de Saint-Augustin et de la congrégation d'Arrouaise au diocèse d'Arras",
+    "auteurs": ["Bertin, P."],
+    "place_of_publication": "Lille",
+    "publisher": null,
+    "publication_dates": "1960",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Publication du Centre régional d'Etudes historiques de l'Université de Lille, 3",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Maroeuil",
+    "mentioned_place": "Maroeuil",
+    "region": "Artois",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Augustinian Canons",
+    "temporal_coverage": null,
+    "document_type": "chronicle; charter"
+  },
+  "remarks": "Congregation of Arrouaise, Diocese of Arras"
+}

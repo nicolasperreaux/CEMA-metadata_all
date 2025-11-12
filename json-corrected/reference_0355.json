@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "355",
+    "publication_type": "book",
+    "title": "Cartulaire des abbayes de Saint-Pierre de La Couture et de Saint-Pierre de Solesmes",
+    "auteurs": ["Bénédictins de Solesmes"],
+    "place_of_publication": "Le Mans",
+    "publisher": "Monnoyer",
+    "publication_dates": "1881",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Pierre de La Couture; Abbaye de Saint-Pierre de Solesmes",
+    "mentioned_place": "La Couture, Solesmes",
+    "region": "Maine",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

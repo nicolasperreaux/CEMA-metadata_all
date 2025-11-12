@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "371",
+    "publication_type": "article",
+    "title": "Documents concernant l'abbaye de Saint-Laurent de Liège",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1886",
+    "volume": null,
+    "tome": null,
+    "pages": "415-438",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de Belgique",
+    "journal_volume": "20",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Laurent de Liège",
+    "mentioned_place": "Liège",
+    "region": "Liège",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

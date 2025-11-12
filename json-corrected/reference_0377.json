@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "377",
+    "publication_type": "article",
+    "title": "Les évêques auxiliaires de Cambrai aux XIIIe et XIVe siècles",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1903",
+    "volume": null,
+    "tome": null,
+    "pages": "7-20; 237-266",
+    "series": null,
+    "journal_title": "Revue Bénédictine",
+    "journal_volume": "20",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Diocèse de Cambrai",
+    "mentioned_place": "Cambrai",
+    "region": "Cambrésis",
+    "country": "France",
+    "institution_type": "diocese",
+    "religious_order": null,
+    "temporal_coverage": "XIIIe-XIVe siècle",
+    "document_type": null
+  },
+  "remarks": null
+}

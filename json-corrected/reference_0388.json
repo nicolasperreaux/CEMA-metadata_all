@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "388",
+    "publication_type": "article",
+    "title": "Documents provenant de l'ancienne abbaye de Saint-Bernard",
+    "auteurs": ["Berthels, Ch."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1860",
+    "volume": null,
+    "tome": null,
+    "pages": "392-398",
+    "series": null,
+    "journal_title": "Revue d'Histoire et d'Archéologie",
+    "journal_volume": "2",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Bernard",
+    "mentioned_place": "Saint-Bernard",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

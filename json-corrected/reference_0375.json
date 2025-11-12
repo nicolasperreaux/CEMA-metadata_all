@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "375",
+    "publication_type": "article",
+    "title": "La prévôté de Prisches à Battignies lez-Binche",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1893",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Annales du Cercle archéologique de Mons",
+    "journal_volume": "24",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Prévôté de Prisches",
+    "mentioned_place": "Battignies, Binche",
+    "region": "Hainaut",
+    "country": "Belgium",
+    "institution_type": "priory",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

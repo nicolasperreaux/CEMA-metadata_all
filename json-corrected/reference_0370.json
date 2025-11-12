@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "370",
+    "publication_type": "article",
+    "title": "Deux actes concernant Guibert Martin, abbé de Gembloux",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1909",
+    "volume": null,
+    "tome": null,
+    "pages": "390-392",
+    "series": null,
+    "journal_title": "Revue Bénédictine",
+    "journal_volume": "26",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Gembloux",
+    "mentioned_place": "Gembloux",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "acta"
+  },
+  "remarks": null
+}

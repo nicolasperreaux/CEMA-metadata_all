@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "368",
+    "publication_type": "article",
+    "title": "Chartes de l'abbaye de Lobbes",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": "293-309",
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": "Documents inédits pour servir à l'Histoire ecclésiastique de la Belgique, I",
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Lobbes",
+    "mentioned_place": "Lobbes",
+    "region": "Hainaut",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "charter"
+  },
+  "remarks": "Published in Maredsous"
+}

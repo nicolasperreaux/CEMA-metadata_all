@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "374",
+    "publication_type": "article",
+    "title": "La fondation de l'abbaye de Saint-Remy, près de Rochefort",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1892",
+    "volume": null,
+    "tome": null,
+    "pages": "423-424",
+    "series": null,
+    "journal_title": "Revue Bénédictine",
+    "journal_volume": "9",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Remy",
+    "mentioned_place": "Rochefort",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "365",
+    "publication_type": "article",
+    "title": "Deux règlements de l'hôpital Saint-Jean-Baptiste d'Aire-sur-la-Lys",
+    "auteurs": ["Berger, R."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1956",
+    "volume": null,
+    "tome": null,
+    "pages": "546-560",
+    "series": null,
+    "journal_title": "Bulletin trimestriel de la Société des Antiquaires de la Morinie",
+    "journal_volume": "18",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Hôpital Saint-Jean-Baptiste d'Aire-sur-la-Lys",
+    "mentioned_place": "Aire-sur-la-Lys",
+    "region": "Artois",
+    "country": "France",
+    "institution_type": "hospital",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "regulation"
+  },
+  "remarks": null
+}

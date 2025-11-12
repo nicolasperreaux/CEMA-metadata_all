@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "378",
+    "publication_type": "article",
+    "title": "Les seigneurs d'Enghien et l'abbaye d'Aywières",
+    "auteurs": ["Berliere, U."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1909-1913",
+    "volume": null,
+    "tome": null,
+    "pages": "26-34",
+    "series": null,
+    "journal_title": "Annales du Cercle archéologique d'Enghien",
+    "journal_volume": "7",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye d'Aywières",
+    "mentioned_place": "Enghien, Aywières",
+    "region": "Hainaut",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

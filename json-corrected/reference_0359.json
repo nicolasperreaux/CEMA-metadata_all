@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "359",
+    "publication_type": "article",
+    "title": "Die Schenkung des Aachener Bürgers Pirkini an das Kloster Marienthal bei Huy im Jahre 1214",
+    "auteurs": ["Berens, W."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1960",
+    "volume": null,
+    "tome": null,
+    "pages": "165-170",
+    "series": null,
+    "journal_title": "Zeitschrift des Aachener Geschischtvereins",
+    "journal_volume": "72",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Kloster Marienthal",
+    "mentioned_place": "Huy, Aachen",
+    "region": null,
+    "country": "Belgium",
+    "institution_type": "monastery",
+    "religious_order": null,
+    "temporal_coverage": "XIIIe siècle (1214)",
+    "document_type": "donation"
+  },
+  "remarks": "Donation from Aachen citizen Pirkini to Marienthal monastery near Huy"
+}

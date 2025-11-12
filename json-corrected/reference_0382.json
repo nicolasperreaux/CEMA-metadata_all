@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "382",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye de Savigny suivi du petit cartulaire de l'abbaye d'Ainay",
+    "auteurs": ["Bernard, Auguste"],
+    "place_of_publication": "Paris",
+    "publisher": null,
+    "publication_dates": "1853",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Savigny; Abbaye d'Ainay",
+    "mentioned_place": "Savigny, Ainay",
+    "region": "Lyonnais",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}
