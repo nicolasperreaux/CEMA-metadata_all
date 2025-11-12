@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "491",
+    "publication_type": "book",
+    "title": "Catalogue de l'exposition de documents relatifs à l'histoire de l'abbaye de Saint-Hubert",
+    "auteurs": ["Bourguignon, M."],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1961",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Archives génerales du Royaume, Archives de l'Etat à Arlon",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Hubert",
+    "mentioned_place": "Saint-Hubert",
+    "region": "Luxembourg",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Exhibition catalogue"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "487",
+    "publication_type": "book",
+    "title": "L'abbaye d'Aulne ou origines, splendeurs, épreuves et ruines de la perle monastique d'Entre-Sambre-et-Meuse",
+    "auteurs": ["Boulmont, G."],
+    "place_of_publication": "Namur",
+    "publisher": null,
+    "publication_dates": "1897",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye d'Aulne",
+    "mentioned_place": "Aulne",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

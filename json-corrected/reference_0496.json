@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "496",
+    "publication_type": "article",
+    "title": "Un acte perdu de Guillaume le Conquérant pour l'abbaye de Saint-Pierre de Préaux",
+    "auteurs": ["Bouvris, Jean-Michel"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1997",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Annuaire des cinq départements de la Normandie",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Pierre de Préaux",
+    "mentioned_place": "Préaux",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "XIe siècle",
+    "document_type": "acta"
+  },
+  "remarks": "About a lost act of William the Conqueror"
+}

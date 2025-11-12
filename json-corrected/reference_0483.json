@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "483",
+    "publication_type": "article",
+    "title": "Coup d'oeil sur les juridictions médiévales. La résolution laborieuse d'un conflit entre l'Abbaye du Val Notre-Dame et le Chevalier Henri de Goyer et sa descendance (1215-1233)",
+    "auteurs": ["Bouchat, M."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1990",
+    "volume": null,
+    "tome": null,
+    "pages": "172-210",
+    "series": null,
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "156",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Val Notre-Dame",
+    "mentioned_place": "Val Notre-Dame",
+    "region": "Brabant",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "1215-1233",
+    "document_type": null
+  },
+  "remarks": "About a conflict resolution between the abbey and a knight"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "498",
+    "publication_type": "book",
+    "title": "A travers l'histoire du Namurois. Catalogue analytique et explicatif de l'exposition permanente de documents VIIIe-XXe siècles",
+    "auteurs": ["Bovesse, J.", "Ladrier, F."],
+    "place_of_publication": "Bruxelles",
+    "publisher": null,
+    "publication_dates": "1971",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Archives générales du Royaume et Archives de l'Etat dans les Provinces, Archives de l'Etat à Namur",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Namur",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "VIIIe-XXe siècle",
+    "document_type": null
+  },
+  "remarks": "Exhibition catalogue"
+}

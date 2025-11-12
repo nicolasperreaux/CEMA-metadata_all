@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "454",
+    "publication_type": "book",
+    "title": "Templeuve-en-Pévèle. Histoire d'un village",
+    "auteurs": ["Bonnier, C."],
+    "place_of_publication": "Liverpool",
+    "publisher": null,
+    "publication_dates": "1907",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Templeuve-en-Pévèle",
+    "region": "Flandre",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

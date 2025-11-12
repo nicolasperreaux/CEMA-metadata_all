@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "463",
+    "publication_type": "book",
+    "title": "Capitularia regum Francorum",
+    "auteurs": ["Boretius, A.", "Krause, V."],
+    "place_of_publication": "Hannover",
+    "publisher": null,
+    "publication_dates": "1883-1897",
+    "volume": "2",
+    "tome": null,
+    "pages": null,
+    "series": "Monumenta Germaniae Historica. Leges 3. Leges in quarto. Sectio II,B",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": null,
+    "region": null,
+    "country": "France",
+    "institution_type": "secular",
+    "religious_order": null,
+    "temporal_coverage": "Carolingian period",
+    "document_type": "capitulary"
+  },
+  "remarks": "2 volumes. Capitularies of the Frankish kings"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "461",
+    "publication_type": "article",
+    "title": "Compte-rendu de: Inventaire général des chartes, titres, papiers appartenant aux hospices et au bureau de bienfaisance de la ville de Douai, par M. Brassart, 1840",
+    "auteurs": ["Bordier, H."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1843",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Bibliothèque de l'Ecole des Chartes",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": "Mémoires de la Société royale et centrale d'agriculture, sciences et arts du département du Nord, séant à Douai",
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Hospices de Douai",
+    "mentioned_place": "Douai",
+    "region": "Flandre",
+    "country": "France",
+    "institution_type": "hospital",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "inventory"
+  },
+  "remarks": "Review of inventory by Brassart"
+}

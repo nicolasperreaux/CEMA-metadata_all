@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "474",
+    "publication_type": "article",
+    "title": "Notice d'un cartulaire du clergé secondaire de Liège",
+    "auteurs": ["Bormans, S."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1872",
+    "volume": null,
+    "tome": null,
+    "pages": "317-370",
+    "series": "3e série",
+    "journal_title": "Bulletin de la Commission royale d'Histoire",
+    "journal_volume": "14",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Clergé secondaire de Liège",
+    "mentioned_place": "Liège",
+    "region": "Liège",
+    "country": "Belgium",
+    "institution_type": "chapter",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

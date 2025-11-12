@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "453",
+    "publication_type": "book",
+    "title": "Les Greffes du Parlement de Bourgogne et chartes de l'abbaye de Saint-Étienne [de Dijon], des années 1341 à 1346",
+    "auteurs": ["Bonneviot, H."],
+    "place_of_publication": "Dijon",
+    "publisher": null,
+    "publication_dates": "1911",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Étienne de Dijon",
+    "mentioned_place": "Dijon",
+    "region": "Bourgogne",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "1341-1346",
+    "document_type": "charter"
+  },
+  "remarks": null
+}

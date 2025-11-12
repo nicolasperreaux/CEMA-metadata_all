@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "497",
+    "publication_type": "article",
+    "title": "Une charte originale de Saint-Ouen de Rouen revêtue des seings autographes de Guillaume le Conquérant et de la reine Mathilde (1080)",
+    "auteurs": ["Bouvris, Jean-Michel"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1990",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "BSAN",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Ouen de Rouen",
+    "mentioned_place": "Rouen",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "1080",
+    "document_type": "charter"
+  },
+  "remarks": "Original charter with autographs of William the Conqueror and Queen Mathilde"
+}

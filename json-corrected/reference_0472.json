@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "472",
+    "publication_type": "book",
+    "title": "Analyse d'un cartulaire de l'abbaye du Val-S.-Lambert près de Liège",
+    "auteurs": ["Bormans, S."],
+    "place_of_publication": "s.l",
+    "publisher": null,
+    "publication_dates": "s.d",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye du Val-Saint-Lambert",
+    "mentioned_place": "Liège",
+    "region": "Liège",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": "Analysis of a cartulary"
+}
