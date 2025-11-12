@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "333",
+    "publication_type": "book",
+    "title": "Bath and Wells 1061-1205",
+    "auteurs": ["Ramsey, F. M. R."],
+    "place_of_publication": "Oxford",
+    "publisher": "Oxford University Press",
+    "publication_dates": "1995",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "English Episcopal Acta Volume 10",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Diocese of Bath and Wells",
+    "mentioned_place": "Bath, Wells",
+    "region": "Somerset",
+    "country": "England",
+    "institution_type": "diocese",
+    "religious_order": null,
+    "temporal_coverage": "1061-1205",
+    "document_type": "episcopal acta"
+  },
+  "remarks": "British Academy"
+}

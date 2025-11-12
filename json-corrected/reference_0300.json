@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "300",
+    "publication_type": "book",
+    "title": "Histoire de l'abbaye de Floreffe de l'Ordre des Prémontrés",
+    "auteurs": ["Barbier, V."],
+    "place_of_publication": "Namur",
+    "publisher": null,
+    "publication_dates": "1892",
+    "volume": "2",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Floreffe",
+    "mentioned_place": "Floreffe",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": "2 volumes. Tome I: Histoire. Tome II: Documents. 2e édition"
+}

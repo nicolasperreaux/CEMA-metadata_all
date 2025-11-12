@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "286",
+    "publication_type": "article",
+    "title": "Documents extraits du cartulaire du chapitre de Fosses",
+    "auteurs": ["Barbier, J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1876",
+    "volume": null,
+    "tome": null,
+    "pages": "361-384",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "13",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Chapitre de Fosses",
+    "mentioned_place": "Fosses",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "cathedral chapter",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

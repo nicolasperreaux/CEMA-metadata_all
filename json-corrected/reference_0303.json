@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "303",
+    "publication_type": "book",
+    "title": "Histoire du monastère de Géronsart de l'Ordre des chanoines réguliers de Saint-Augustin",
+    "auteurs": ["Barbier, V."],
+    "place_of_publication": "Namur",
+    "publisher": null,
+    "publication_dates": "1886",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Monastère de Géronsart",
+    "mentioned_place": "Géronsart",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "monastery",
+    "religious_order": "Augustinian Canons",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "330",
+    "publication_type": "book",
+    "title": "Cysoing. Les seigneurs, l'abbaye, la ville, la paroisse",
+    "auteurs": ["Bataille, J."],
+    "place_of_publication": "Lille",
+    "publisher": null,
+    "publication_dates": "1934",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Cysoing",
+    "mentioned_place": "Cysoing",
+    "region": "Flandre",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}

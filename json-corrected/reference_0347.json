@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "347",
+    "publication_type": "book",
+    "title": "Beaulieu Cartulary",
+    "auteurs": ["Hockey, S. F."],
+    "place_of_publication": "Southampton",
+    "publisher": "Southampton University Press",
+    "publication_dates": "1974",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Southampton Record Series, V.17",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Beaulieu Abbey",
+    "mentioned_place": "Beaulieu",
+    "region": "Hampshire",
+    "country": "England",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

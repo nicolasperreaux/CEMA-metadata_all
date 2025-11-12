@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "293",
+    "publication_type": "article",
+    "title": "L'abbaye de Floreffe obtient les dîmes de Tilleur (Liège)",
+    "auteurs": ["Barbier, J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1873",
+    "volume": null,
+    "tome": null,
+    "pages": "284-285",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "10",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Floreffe",
+    "mentioned_place": "Tilleur",
+    "region": "Liège",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

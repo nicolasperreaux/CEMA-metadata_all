@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "323",
+    "publication_type": "book",
+    "title": "Cartulaire de l'abbaye Sainte-Marie de Valmagne. Ordre de Cîteaux au diocèse d'Agde en Languedoc",
+    "auteurs": ["Barthes, Henri"],
+    "place_of_publication": "Saint-Genies de Fontedit",
+    "publisher": null,
+    "publication_dates": "2010",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye Sainte-Marie de Valmagne",
+    "mentioned_place": "Valmagne",
+    "region": "Languedoc",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

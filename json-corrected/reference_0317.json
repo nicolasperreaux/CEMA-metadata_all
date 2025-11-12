@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "317",
+    "publication_type": "book",
+    "title": "Le cartulaire de l'abbaye cistercienne d'Obazine (XIIe-XIIIe siècle)",
+    "auteurs": ["Barriere, Bernadette"],
+    "place_of_publication": "Clermont-Ferrand",
+    "publisher": null,
+    "publication_dates": "1989",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye d'Obazine",
+    "mentioned_place": "Obazine",
+    "region": "Limousin",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": "XIIe-XIIIe siècle",
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

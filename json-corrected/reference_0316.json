@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "316",
+    "publication_type": "book",
+    "title": "Cartulaire de Marmoutier pour le Perche",
+    "auteurs": ["Barret, Philibert (Abbé)"],
+    "place_of_publication": "Mortagne-au-Perche, Meaux",
+    "publisher": null,
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": "Documents sur la province du Perche ; 3e série, 2",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Marmoutier",
+    "mentioned_place": "Perche",
+    "region": "Perche",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

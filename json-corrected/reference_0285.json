@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "285",
+    "publication_type": "article",
+    "title": "Documents extraits du cartulaire de Salzinnes",
+    "auteurs": ["Barbier, J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1866",
+    "volume": null,
+    "tome": null,
+    "pages": "477-482",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'histoire ecclésiastique de la Belgique",
+    "journal_volume": "3",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Salzinnes",
+    "mentioned_place": "Salzinnes",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

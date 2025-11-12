@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "298",
+    "publication_type": "article",
+    "title": "Cartulaire de l'abbaye de Floreffe de l'ordre de Prémontré au diocèse de Namur",
+    "auteurs": ["Barbier, J.", "Barbier, V."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1881",
+    "volume": null,
+    "tome": null,
+    "pages": "7-67",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "17",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Floreffe",
+    "mentioned_place": "Floreffe",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

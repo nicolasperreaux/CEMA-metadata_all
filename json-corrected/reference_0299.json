@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "299",
+    "publication_type": "article",
+    "title": "Cartulaire de l'abbaye de Malonne",
+    "auteurs": ["Barbier, V."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1886",
+    "volume": null,
+    "tome": null,
+    "pages": "5-48",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "20",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Malonne",
+    "mentioned_place": "Malonne",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Cistercian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

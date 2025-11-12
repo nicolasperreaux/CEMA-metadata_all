@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "279",
+    "publication_type": "article",
+    "title": "Documents concernant les paroisses de Frasnes-lez-Gosselies et Tillier",
+    "auteurs": ["Barbier, J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1867",
+    "volume": null,
+    "tome": null,
+    "pages": "479-488",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'histoire ecclésiastique de la Belgique",
+    "journal_volume": "4",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Frasnes-lez-Gosselies",
+    "region": "Hainaut",
+    "country": "Belgium",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

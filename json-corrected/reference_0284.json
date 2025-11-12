@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "284",
+    "publication_type": "article",
+    "title": "Documents concernant Viesville, extraits du cartulaire de l'abbaye de Floreffe",
+    "auteurs": ["Barbier, J."],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1872",
+    "volume": null,
+    "tome": null,
+    "pages": "45-47",
+    "series": null,
+    "journal_title": "Analectes pour servir à l'Histoire ecclésiastique de la Belgique",
+    "journal_volume": "9",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Floreffe",
+    "mentioned_place": "Viesville",
+    "region": "Hainaut",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Premonstratensian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

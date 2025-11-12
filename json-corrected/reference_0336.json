@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "336",
+    "publication_type": "article",
+    "title": "À propos d'un acte inédit du fonds de Saint-Ouen de Rouen, aperçu sur les débuts de la féodalité normande",
+    "auteurs": ["Bauduin, Pierre"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "2000",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": "La Normandie vers l'an mil",
+    "container_editors": ["Beaurepaire, François de", "Chaline, Jean-Pierre"]
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Ouen de Rouen",
+    "mentioned_place": "Rouen",
+    "region": "Normandie",
+    "country": "France",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": "Xe-XIe siècle",
+    "document_type": "charter"
+  },
+  "remarks": "Published by Société de l'histoire de Normandie, Rouen"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "301",
+    "publication_type": "book",
+    "title": "Histoire de l'abbaye de Malonne, de l'Ordre des chanoines réguliers de Saint-Augustin",
+    "auteurs": ["Barbier, V."],
+    "place_of_publication": "Namur",
+    "publisher": null,
+    "publication_dates": "1894",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Malonne",
+    "mentioned_place": "Malonne",
+    "region": "Namur",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Augustinian Canons",
+    "temporal_coverage": null,
+    "document_type": "history"
+  },
+  "remarks": null
+}
