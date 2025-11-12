@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "77",
+    "publication_type": "monograph",
+    "title": "Notice sur la destruction du château de Peyraud en Vivarais",
+    "auteurs": ["Vachez, A."],
+    "place_of_publication": "Lyon",
+    "publisher": "imprimerie Mougin-Rusand",
+    "publication_dates": "1877",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Peyraud",
+    "region": "Vivarais",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

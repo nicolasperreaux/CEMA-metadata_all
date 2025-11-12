@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "64",
+    "publication_type": "monograph",
+    "title": "Fors de Béarn. Législation inédite du onzième au treizième siècle",
+    "auteurs": ["Mazure, A.", "Hatoulet, J."],
+    "place_of_publication": "Pau",
+    "publisher": null,
+    "publication_dates": "1842",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Béarn",
+    "region": "Béarn",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "XIe-XIIIe siècle",
+    "document_type": "coutume"
+  },
+  "remarks": "Combined with another work: J. Brissaud et P. Rogé, Textes additionnels aux Anciens Fors de Béarn, Toulouse, 1905"
+}

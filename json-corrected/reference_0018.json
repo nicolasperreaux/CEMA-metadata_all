@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "18",
+    "publication_type": "monograph",
+    "title": "Histoire et Antiquitez du pais de Beauvaisis",
+    "auteurs": ["Louvet, Pierre"],
+    "place_of_publication": "Beauvais",
+    "publisher": null,
+    "publication_dates": "1631",
+    "volume": null,
+    "tome": "t. 1",
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Beauvaisis",
+    "region": "Picardie",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}

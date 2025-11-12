@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "78",
+    "publication_type": "monograph",
+    "title": "Chartes et documents de l'abbaye de Saint-Pierre au Mont Blandin à Gand depuis sa fondation jusqu'à sa suppression",
+    "auteurs": ["Van Lokeren, A."],
+    "place_of_publication": "Gand",
+    "publisher": null,
+    "publication_dates": "1868-1871",
+    "volume": "I",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Abbaye de Saint-Pierre au Mont Blandin",
+    "mentioned_place": "Gand",
+    "region": "Flandre",
+    "country": "Belgium",
+    "institution_type": "abbey",
+    "religious_order": "Benedictine",
+    "temporal_coverage": null,
+    "document_type": "collection"
+  },
+  "remarks": "2 volumes total"
+}

@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "21",
+    "publication_type": "monograph",
+    "title": "A Chartulary of St. Thomas' Priory near Stafford",
+    "auteurs": [],
+    "place_of_publication": "London",
+    "publisher": "Harrison and Sons",
+    "publication_dates": "1887",
+    "volume": "V.8",
+    "tome": null,
+    "pages": null,
+    "series": "Collections for a History of Staffordshire",
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "St. Thomas' Priory",
+    "mentioned_place": "Stafford",
+    "region": "Staffordshire",
+    "country": "United Kingdom",
+    "institution_type": "priory",
+    "religious_order": "Augustinian",
+    "temporal_coverage": null,
+    "document_type": "cartulary"
+  },
+  "remarks": null
+}

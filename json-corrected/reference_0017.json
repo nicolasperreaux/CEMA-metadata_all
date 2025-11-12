@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "17",
+    "publication_type": "monograph",
+    "title": "Vertheidigung der urspringlichen Freyheit und Immedietät des von den Herren Grafen von Dillingen und Kyberg gestifteten [...] Gotteshauses Söflingen ordinis s[anctae] Clarae, gegen den Misbrauch des [...] der Reichsstadt Ulm",
+    "auteurs": ["Schaden, Johann Wilhelm von"],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": null,
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Gotteshaus Söflingen",
+    "mentioned_place": "Söflingen",
+    "region": "Schwaben",
+    "country": "Germany",
+    "institution_type": "convent",
+    "religious_order": "Franciscan",
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": "Reference contains [...] indicating missing text; ordinis s[anctae] Clarae indicates Order of Saint Clare (Poor Clares/Franciscan)"
+}

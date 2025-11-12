@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "3",
+    "publication_type": "article",
+    "title": "Coutumes concédées par Gaston, vicomte du Fezensaguet, aux habitants de Mauzevin et aux nobles de la vicomté, en 1295",
+    "auteurs": [],
+    "place_of_publication": null,
+    "publisher": null,
+    "publication_dates": "1892",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Archives historiques de la Gironde",
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": null,
+    "mentioned_place": "Mauzevin",
+    "region": "Gascogne",
+    "country": "France",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": "1295",
+    "document_type": null
+  },
+  "remarks": null
+}

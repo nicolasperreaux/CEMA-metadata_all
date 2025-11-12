@@ -1,0 +1,31 @@
+{
+  "publication": {
+    "reference_number": "58",
+    "publication_type": "monograph",
+    "title": "De oorkonden van Pitsenburg, commanderij van de duitse ridderorde te Mechelen (1190-1794). Deel I. Voor 15 maart 1190-21 oktober 1299",
+    "auteurs": ["Jamees, A."],
+    "place_of_publication": "Antwerpen",
+    "publisher": "Provincie Antwerpen. Commissie voor Geschiedenis en Volkskunde",
+    "publication_dates": "1991",
+    "volume": "I",
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": null,
+    "journal_volume": null,
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Commanderie de Pitsenburg",
+    "mentioned_place": "Mechelen",
+    "region": "Antwerpen",
+    "country": "Belgium",
+    "institution_type": "commandery",
+    "religious_order": "Teutonic Order",
+    "temporal_coverage": "1190-1299",
+    "document_type": "collection"
+  },
+  "remarks": null
+}
