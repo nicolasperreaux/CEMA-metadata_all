@@ -115,7 +115,7 @@ def main():
     """Main processing function."""
     # Setup paths
     base_dir = Path('/home/user/CEMA-metadata_all')
-    liste_file = base_dir / 'liste.txt'
+    liste_file = base_dir / 'liste-tout.txt'
     prompt_file = base_dir / 'prompt-CC.txt'
     json_dir = base_dir / 'json'
     error_log = base_dir / 'errors.log'
