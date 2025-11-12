@@ -1,0 +1,30 @@
+{
+  "publication": {
+    "publication_type": "article",
+    "title": "Bexley Church: Some Early Documents",
+    "auteurs": ["du Boulay, F. R. H."],
+    "place_of_publication": "London",
+    "publisher": "Kent Archaeological Society",
+    "publication_dates": "1958",
+    "volume": null,
+    "tome": null,
+    "pages": null,
+    "series": null,
+    "journal_title": "Archaeologia Cantiana",
+    "journal_volume": "V.72",
+    "journal_issue": null,
+    "container_title": null,
+    "container_editors": []
+  },
+  "content": {
+    "main_institution": "Bexley Church",
+    "mentioned_place": "Bexley",
+    "region": "Kent",
+    "country": "United Kingdom",
+    "institution_type": null,
+    "religious_order": null,
+    "temporal_coverage": null,
+    "document_type": null
+  },
+  "remarks": null
+}
